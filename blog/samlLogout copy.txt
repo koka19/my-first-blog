@@ -1,0 +1,861 @@
+tml class="no-touch" lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="https://anywhereweroam.com/xmlrpc.php">
+<title>Anywhere We Roam | Best UK Travel Blog 2019</title>
+
+<!-- Powered by Social Snap v1.1.5.1 - https://socialsnap.com/ -->
+<meta property="og:type" content="article">
+<meta property="og:title" content="Anywhere We Roam | Best UK Travel Blog 2019">
+<meta property="og:description" content="Anywhere We Roam is a travel blog featuring our unique travel itineraries, helpful insights, and highlights from our adventures around the world.">
+<meta property="og:url" content="https://anywhereweroam.com/">
+<meta property="og:site_name" content="Anywhere We Roam">
+<meta property="og:updated_time" content="2019-06-05T12:44:02+00:00">
+<meta property="article:publisher" content="https://www.facebook.com/anywhereweroam">
+<meta property="article:author" content="https://www.facebook.com/anywhereweroam">
+<meta property="og:image" content="https://anywhereweroam.com/wp-content/uploads/2018/10/FA4A8539-Edit-2.jpg">
+<meta property="article:published_time" content="2017-07-29T18:19:57+00:00">
+<meta property="article:modified_time" content="2019-06-05T12:44:02+00:00">
+<meta property="fb:app_id" content="1923155921341058">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="%%sitename%% %%sep%% Best UK Travel Blog 2019">
+<meta name="twitter:description" content="Anywhere We Roam is a travel blog featuring our unique travel itineraries, helpful insights, and highlights from our adventures around the world.">
+<meta name="twitter:image:src" content="https://anywhereweroam.com/wp-content/uploads/2019/05/anywhere-we-roam-best-uk-travel-blog-2019.jpg">
+<meta name="twitter:site" content="@anywhereweroam">
+<!-- Powered by Social Snap v1.1.5.1 - https://socialsnap.com/ -->
+
+
+<!-- This site is optimized with the Yoast SEO Premium plugin v11.4 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Anywhere We Roam is a travel blog featuring our unique travel itineraries, helpful insights, and highlights from our adventures around the world."/>
+<link rel="canonical" href="https://anywhereweroam.com/" />
+<meta property="og:locale" content="en_GB" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Anywhere We Roam is a travel blog featuring our unique travel itineraries, helpful insights, and highlights from our adventures around the world." />
+<meta name="twitter:title" content="Anywhere We Roam | Best UK Travel Blog 2019" />
+<meta name="twitter:site" content="@anywhereweroam" />
+<meta name="twitter:image" content="https://anywhereweroam.com/wp-content/uploads/2018/10/FA4A8539-Edit-2.jpg" />
+<meta name="twitter:creator" content="@anywhereweroam" />
+<meta name="google-site-verification" content="pKZTEtWKCdrjzmlpqhVxyQjbHoPaOrFuw3bnuk2UsAc" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://anywhereweroam.com/#organization","name":"","url":"https://anywhereweroam.com/","sameAs":["https://www.facebook.com/anywhereweroam","https://www.instagram.com/Anywhere_We_Roam/","https://www.linkedin.com/in/pghealy/","https://www.pinterest.co.uk/anywhereweroam","https://twitter.com/anywhereweroam"]},{"@type":"WebSite","@id":"https://anywhereweroam.com/#website","url":"https://anywhereweroam.com/","name":"Anywhere We Roam","publisher":{"@id":"https://anywhereweroam.com/#organization"},"potentialAction":{"@type":"SearchAction","target":"https://anywhereweroam.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://anywhereweroam.com/#webpage","url":"https://anywhereweroam.com/","inLanguage":"en-GB","name":"Anywhere We Roam | Best UK Travel Blog 2019","isPartOf":{"@id":"https://anywhereweroam.com/#website"},"about":{"@id":"https://anywhereweroam.com/#organization"},"image":{"@type":"ImageObject","@id":"https://anywhereweroam.com/#primaryimage","url":"https://anywhereweroam.com/wp-content/uploads/2019/05/anywhere-we-roam-best-uk-travel-blog-2019.jpg","width":1200,"height":800,"caption":"Anywhere We Roam / Best UK Travel Blog 2019"},"primaryImageOfPage":{"@id":"https://anywhereweroam.com/#primaryimage"},"datePublished":"2017-07-29T18:19:57+00:00","dateModified":"2019-06-05T11:44:02+00:00","description":"Anywhere We Roam is a travel blog featuring our unique travel itineraries, helpful insights, and highlights from our adventures around the world."}]}</script>
+<!-- / Yoast SEO Premium plugin. -->
+
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Anywhere We Roam &raquo; Feed" href="https://anywhereweroam.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Anywhere We Roam &raquo; Comments Feed" href="https://anywhereweroam.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/anywhereweroam.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.1"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://anywhereweroam.com/wp-includes/css/dist/block-library/style.min.css?ver=5.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://anywhereweroam.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='cookie-notice-front-css'  href='https://anywhereweroam.com/wp-content/plugins/cookie-notice/css/front.min.css?ver=5.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='socialsnap-styles-css'  href='https://anywhereweroam.com/wp-content/plugins/socialsnap-plus/assets/css/socialsnap.css?ver=1.1.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='uf-font-squirrel-css'  href='https://anywhereweroam.com/wp-content/uploads/uncode-fonts/uncodefont.css?ver=2.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='uncodefont-google-css'  href='//fonts.googleapis.com/css?family=Poppins%3A300%2Cregular%2C500%2C600%2C700%7CRoboto%3A100%2C100italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C700%2C700italic%2C900%2C900italic%7CLato%3A100%2C100italic%2C300%2C300italic%2Cregular%2Citalic%2C700%2C700italic%2C900%2C900italic%7CMontserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CReenie+Beanie%3Aregular%7CNunito+Sans%3A200%2C200italic%2C300%2C300italic%2Cregular%2Citalic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;subset=devanagari%2Clatin-ext%2Cvietnamese%2Cgreek%2Ccyrillic-ext%2Ccyrillic%2Cgreek-ext%2Clatin&#038;ver=2.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='uncode-style-css'  href='https://anywhereweroam.com/wp-content/themes/uncode/library/css/style.css' type='text/css' media='all' />
+<style id='uncode-style-inline-css' type='text/css'>
+
+@media (max-width: 959px) { .navbar-brand > * { height: 32px !important;}}
+@media (min-width: 960px) { .limit-width { max-width: 1200px; margin: auto;}}
+.menu-primary ul.menu-smart > li > a, .menu-primary ul.menu-smart li.dropdown > a, .menu-primary ul.menu-smart li.mega-menu > a, .vmenu-container ul.menu-smart > li > a, .vmenu-container ul.menu-smart li.dropdown > a { text-transform: uppercase; }
+.menu-primary ul.menu-smart ul a, .vmenu-container ul.menu-smart ul a { text-transform: uppercase; }
+</style>
+<link rel='stylesheet' id='uncode-custom-style-css'  href='https://anywhereweroam.com/wp-content/themes/uncode/library/css/style-custom.css' type='text/css' media='all' />
+<style id='uncode-custom-style-inline-css' type='text/css'>
+.extras > .extras-wrap:last-child {display:none !important;}.style-light .link, .style-light.style-override .link, .style-dark .style-light .link, .style-light a, .style-light.style-override a, .style-dark .style-light a, .style-light input[type=checkbox]:checked:before, .style-light.style-override input[type=checkbox]:checked:before, .style-dark .style-light input[type=checkbox]:checked:before {color:#2A5DB0;}body:not(.menu-force-opacity) .style-dark-override:not(.is_stuck):not(.is_mobile_open).menu-transparent .menu-horizontal-inner > .nav > .menu-smart > li > a:hover, body:not(.menu-force-opacity) .style-dark-override:not(.is_stuck):not(.is_mobile_open).menu-transparent .menu-horizontal-inner > .nav > .menu-smart > li > a:focus { color:#e3e3e3 !important;}body:not(.menu-force-opacity) .style-dark-override:not(.is_stuck):not(.is_mobile_open).menu-transparent .menu-horizontal-inner > .nav > .menu-smart > li.active > a, body:not(.menu-force-opacity) .style-dark-override:not(.is_stuck):not(.is_mobile_open).menu-transparent .menu-horizontal-inner > .nav > .menu-smart > li a.active, body:not(.menu-force-opacity) .style-dark-override:not(.is_stuck):not(.is_mobile_open).menu-transparent .menu-horizontal-inner > .nav > .menu-smart > li.current-menu-parent > a, body:not(.menu-force-opacity) .style-dark-override:not(.is_stuck):not(.is_mobile_open).menu-transparent .menu-horizontal-inner > .nav > .menu-smart > li.current-menu-ancestor > a, body:not(.menu-force-opacity) .style-dark-override:not(.is_stuck):not(.is_mobile_open).menu-transparent .menu-horizontal-inner > .nav > .menu-smart > li.current-menu-item:not(.menu-item-type-custom) > a { color:#e3e3e3 !important;}.crp_related_widget li a img {width:100%;height:auto;}.crp_related_widget li a span {line-height:1.4;display:block;margin-bottom:10px;}.style-light .link, .style-light.style-override .link, .style-dark .style-light .link, .style-light a, .style-light.style-override a, .style-dark .style-light a, .style-light input[type=checkbox]:checked:before, .style-light.style-override input[type=checkbox]:checked:before, .style-dark .style-light input[type=checkbox]:checked:before {color:#0151c1;}.style-light .link-hover, .style-light.style-override .link-hover, .style-dark .style-light .link-hover, .style-light a:not(.btn-text-skin):hover, .style-light.style-override a:not(.btn-text-skin):hover, .style-dark .style-light a:not(.btn-text-skin):hover, .style-light a:not(.btn-text-skin):focus, .style-light.style-override a:not(.btn-text-skin):focus, .style-dark .style-light a:not(.btn-text-skin):focus, .style-light a.active, .style-light.style-override a.active, .style-dark .style-light a.active, .style-light .tmb .t-entry-text .t-entry-title a:hover, .style-light.style-override .tmb .t-entry-text .t-entry-title a:hover, .style-dark .style-light .tmb .t-entry-text .t-entry-title a:hover, .style-light .tmb .t-entry-text .t-entry-title a:focus, .style-light.style-override .tmb .t-entry-text .t-entry-title a:focus, .style-dark .style-light .tmb .t-entry-text .t-entry-title a:focus, .style-light .tmb .t-entry p.t-entry-comments .extras a:hover i, .style-light.style-override .tmb .t-entry p.t-entry-comments .extras a:hover i, .style-dark .style-light .tmb .t-entry p.t-entry-comments .extras a:hover i, .style-light .tmb .t-entry p.t-entry-comments .extras a.active i, .style-light.style-override .tmb .t-entry p.t-entry-comments .extras a.active i, .style-dark .style-light .tmb .t-entry p.t-entry-comments .extras a.active i, .style-light .tmb .t-entry p.t-entry-comments .extras a:focus i, .style-light.style-override .tmb .t-entry p.t-entry-comments .extras a:focus i, .style-dark .style-light .tmb .t-entry p.t-entry-comments .extras a:focus i, .style-light .widget_nav_menu li.active > a, .style-light.style-override .widget_nav_menu li.active > a, .style-dark .style-light .widget_nav_menu li.active > a, .style-light div[class*=sharer-].share-button label:hover, .style-light.style-override div[class*=sharer-].share-button label:hover, .style-dark .style-light div[class*=sharer-].share-button label:hover, .style-light div[class*=sharer-].share-button label:focus, .style-light.style-override div[class*=sharer-].share-button label:focus, .style-dark .style-light div[class*=sharer-].share-button label:focus {color:#006cff;}body:not(.menu-force-opacity) .style-dark-override:not(.is_stuck):not(.is_mobile_open).menu-transparent .menu-horizontal-inner > .nav > .menu-smart > li.active > a, body:not(.menu-force-opacity) .style-dark-override:not(.is_stuck):not(.is_mobile_open).menu-transparent .menu-horizontal-inner > .nav > .menu-smart > li a.active, body:not(.menu-force-opacity) .style-dark-override:not(.is_stuck):not(.is_mobile_open).menu-transparent .menu-horizontal-inner > .nav > .menu-smart > li.current-menu-parent > a, body:not(.menu-force-opacity) .style-dark-override:not(.is_stuck):not(.is_mobile_open).menu-transparent .menu-horizontal-inner > .nav > .menu-smart > li.current-menu-ancestor > a, body:not(.menu-force-opacity) .style-dark-override:not(.is_stuck):not(.is_mobile_open).menu-transparent .menu-horizontal-inner > .nav > .menu-smart > li.current-menu-item:not(.menu-item-type-custom) > a { color:#333 !important;}span.t-entry-date {font-weight:300 !important;}span.t-entry-category {font-weight:500 !important;}.dummy {position:relative;z-index:-1;}.inactive-link {pointer-events:auto !important;}.t-entry-visual-overlay, .t-overlay-wrap {pointer-events:none !important;}body.category .isotope-system .t-entry-excerpt p {line-height:1.3;font-size:13px}body.tag .isotope-system .t-entry-excerpt p {line-height:1.3;font-size:13px}body.search .isotope-system .t-entry-excerpt p {line-height:1.3;font-size:13px}body.author .isotope-system .t-entry-excerpt p {line-height:1.3;font-size:13px}.uncode-vc-social .social-icon a i {color:#303133;} .uncode-vc-social .social-icon a i:hover {color:#006cff;} .tmb .t-entry p.t-entry-meta span {line-height:1.2em;max-width:500px}.tmb .t-entry p.t-entry-meta span {font-weight:500;}
+</style>
+<link rel='stylesheet' id='child-style-css'  href='https://anywhereweroam.com/wp-content/themes/uncode-child/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='uncode-icons-css'  href='https://anywhereweroam.com/wp-content/themes/uncode/library/css/uncode-icons.css' type='text/css' media='all' />
+<link rel='stylesheet' id='sccss_style-css'  href='https://anywhereweroam.com/?sccss=1&#038;ver=5.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-add-custom-css-css'  href='https://anywhereweroam.com?display_custom_css=css&#038;ver=5.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='https://anywhereweroam.com/wp-content/plugins/jetpack/css/jetpack.css?ver=7.4' type='text/css' media='all' />
+<script type='text/javascript' src='https://anywhereweroam.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://anywhereweroam.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var cnArgs = {"ajaxurl":"https:\/\/anywhereweroam.com\/wp-admin\/admin-ajax.php","hideEffect":"fade","onScroll":"no","onScrollOffset":"100","cookieName":"cookie_notice_accepted","cookieValue":"true","cookieTime":"2592000","cookiePath":"\/","cookieDomain":"","redirection":"","cache":"1","refuse":"no","revoke_cookies":"0","revoke_cookies_opt":"automatic","secure":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://anywhereweroam.com/wp-content/plugins/cookie-notice/js/front.min.js?ver=1.2.46'></script>
+<script type='text/javascript'>
+var mejsL10n = {"language":"en","strings":{"mejs.install-flash":"You are using a browser that does not have Flash player enabled or installed. Please turn on your Flash player plugin or download the latest version from https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen-off":"Turn off Fullscreen","mejs.fullscreen-on":"Go Fullscreen","mejs.download-video":"Download Video","mejs.fullscreen":"Fullscreen","mejs.time-jump-forward":["Jump forward 1 second","Jump forward %1 seconds"],"mejs.loop":"Toggle Loop","mejs.play":"Play","mejs.pause":"Pause","mejs.close":"Close","mejs.time-slider":"Time Slider","mejs.time-help-text":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.","mejs.time-skip-back":["Skip back 1 second","Skip back %1 seconds"],"mejs.captions-subtitles":"Captions\/Subtitles","mejs.captions-chapters":"Chapters","mejs.none":"None","mejs.mute-toggle":"Mute Toggle","mejs.volume-help-text":"Use Up\/Down Arrow keys to increase or decrease volume.","mejs.unmute":"Unmute","mejs.mute":"Mute","mejs.volume-slider":"Volume Slider","mejs.video-player":"Video Player","mejs.audio-player":"Audio Player","mejs.ad-skip":"Skip ad","mejs.ad-skip-info":["Skip in 1 second","Skip in %1 seconds"],"mejs.source-chooser":"Source Chooser","mejs.stop":"Stop","mejs.speed-rate":"Speed Rate","mejs.live-broadcast":"Live Broadcast","mejs.afrikaans":"Afrikaans","mejs.albanian":"Albanian","mejs.arabic":"Arabic","mejs.belarusian":"Belarusian","mejs.bulgarian":"Bulgarian","mejs.catalan":"Catalan","mejs.chinese":"Chinese","mejs.chinese-simplified":"Chinese (Simplified)","mejs.chinese-traditional":"Chinese (Traditional)","mejs.croatian":"Croatian","mejs.czech":"Czech","mejs.danish":"Danish","mejs.dutch":"Dutch","mejs.english":"English","mejs.estonian":"Estonian","mejs.filipino":"Filipino","mejs.finnish":"Finnish","mejs.french":"French","mejs.galician":"Galician","mejs.german":"German","mejs.greek":"Greek","mejs.haitian-creole":"Haitian Creole","mejs.hebrew":"Hebrew","mejs.hindi":"Hindi","mejs.hungarian":"Hungarian","mejs.icelandic":"Icelandic","mejs.indonesian":"Indonesian","mejs.irish":"Irish","mejs.italian":"Italian","mejs.japanese":"Japanese","mejs.korean":"Korean","mejs.latvian":"Latvian","mejs.lithuanian":"Lithuanian","mejs.macedonian":"Macedonian","mejs.malay":"Malay","mejs.maltese":"Maltese","mejs.norwegian":"Norwegian","mejs.persian":"Persian","mejs.polish":"Polish","mejs.portuguese":"Portuguese","mejs.romanian":"Romanian","mejs.russian":"Russian","mejs.serbian":"Serbian","mejs.slovak":"Slovak","mejs.slovenian":"Slovenian","mejs.spanish":"Spanish","mejs.swahili":"Swahili","mejs.swedish":"Swedish","mejs.tagalog":"Tagalog","mejs.thai":"Thai","mejs.turkish":"Turkish","mejs.ukrainian":"Ukrainian","mejs.vietnamese":"Vietnamese","mejs.welsh":"Welsh","mejs.yiddish":"Yiddish"}};
+</script>
+<script type='text/javascript' src='https://anywhereweroam.com/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.6-78496d1'></script>
+<script type='text/javascript' src='https://anywhereweroam.com/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=5.2.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='/wp-content/themes/uncode/library/js/min/ai-uncode.min.js' id='uncodeAI' data-async='true' data-home='/' data-path='/' data-breakpoints-images='250,400,1000,1200'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var SiteParameters = {"days":"days","hours":"hours","minutes":"minutes","seconds":"seconds","constant_scroll":"on","scroll_speed":"2","parallax_factor":"0.25","loading":"Loading\u2026","slide_name":"slide","slide_footer":"footer","ajax_url":"https:\/\/anywhereweroam.com\/wp-admin\/admin-ajax.php","nonce_adaptive_images":"22141c638f","enable_debug":"","block_mobile_videos":"","mobile_parallax_allowed":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://anywhereweroam.com/wp-content/themes/uncode/library/js/min/init.min.js'></script>
+<link rel='https://api.w.org/' href='https://anywhereweroam.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://anywhereweroam.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://anywhereweroam.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.2.1" />
+<link rel='shortlink' href='https://wp.me/P91pPF-hxf' />
+<link rel="alternate" type="application/json+oembed" href="https://anywhereweroam.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fanywhereweroam.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://anywhereweroam.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fanywhereweroam.com%2F&#038;format=xml" />
+
+		<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+			ga('create', 'UA-106809748-1', 'auto');
+			ga('send', 'pageview');
+		</script>
+
+	<style type="text/css">#ss-share-hub > a::after{background-color:#4f89e1} #ss-share-hub > a{color:#fff}</style>
+<link rel='dns-prefetch' href='//v0.wordpress.com'/>
+<style type='text/css'>img#wpstats{display:none}</style><!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://anywhereweroam.com/wp-content/plugins/uncode-js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><link rel="icon" href="https://anywhereweroam.com/wp-content/uploads/2017/07/cropped-Favicon-1-150x150.png" sizes="32x32" />
+<link rel="icon" href="https://anywhereweroam.com/wp-content/uploads/2017/07/cropped-Favicon-1-400x400.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://anywhereweroam.com/wp-content/uploads/2017/07/cropped-Favicon-1-400x400.png" />
+<meta name="msapplication-TileImage" content="https://anywhereweroam.com/wp-content/uploads/2017/07/cropped-Favicon-1-400x400.png" />
+<style type="text/css" data-type="vc_custom-css">.isotope-system .t-entry-excerpt p {
+    line-height: 1.3;
+    font-size: 12.5px
+}
+</style><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+<body class="home page-template-default page page-id-67409  style-color-uydo-bg cookies-not-set group-blog hormenu-position-left hmenu hmenu-position-center header-full-width main-center-align menu-mobile-animated menu-mobile-transparent menu-mobile-centered mobile-parallax-not-allowed ilb-no-bounce unreg adaptive-images-async wpb-js-composer js-comp-ver-5.7 vc_responsive" data-border="0">
+		<div class="body-borders" data-border="0"><div class="top-border body-border-shadow"></div><div class="right-border body-border-shadow"></div><div class="bottom-border body-border-shadow"></div><div class="left-border body-border-shadow"></div><div class="top-border style-light-bg"></div><div class="right-border style-light-bg"></div><div class="bottom-border style-light-bg"></div><div class="left-border style-light-bg"></div></div>	<div class="box-wrapper">
+		<div class="box-container">
+		<script type="text/javascript">UNCODE.initBox();</script>
+		<div class="menu-wrapper menu-shrink menu-sticky menu-no-arrows">
+													
+													<header id="masthead" class="navbar menu-primary menu-light submenu-light menu-transparent menu-add-padding style-light-original menu-absolute menu-animated menu-with-logo">
+														<div class="menu-container style-color-xsdn-bg menu-no-borders force-no-shadows">
+															<div class="row-menu limit-width">
+																<div class="row-menu-inner">
+																	<div id="logo-container-mobile" class="col-lg-0 logo-container middle">
+																		<div id="main-logo" class="navbar-header style-light">
+																			<a href="https://anywhereweroam.com/" class="navbar-brand" data-minheight="30"><div class="logo-image main-logo  logo-light" data-maxheight="35" style="height: 35px;"><img src="https://anywhereweroam.com/wp-content/uploads/2019/04/AWR-Logo-Dark-April-uai-250x69.png" alt="logo" width="250" height="69" class="img-responsive adaptive-async" data-uniqueid="88844-966892" data-guid="https://anywhereweroam.com/wp-content/uploads/2019/04/AWR-Logo-Dark-April.png" data-path="2019/04/AWR-Logo-Dark-April.png" data-width="126" data-height="35" data-singlew="null" data-singleh="null" data-crop="" data-fixed="height" /></div><div class="logo-image main-logo  logo-dark" data-maxheight="35" style="height: 35px;display:none;"><img src="https://anywhereweroam.com/wp-content/uploads/2019/04/AWR-Logo-Light-Apr-19-uai-250x69.png" alt="Anywhere We Roam Travel Blog" width="250" height="69" class="img-responsive adaptive-async" data-uniqueid="88843-713271" data-guid="https://anywhereweroam.com/wp-content/uploads/2019/04/AWR-Logo-Light-Apr-19.png" data-path="2019/04/AWR-Logo-Light-Apr-19.png" data-width="126" data-height="35" data-singlew="null" data-singleh="null" data-crop="" data-fixed="height" /></div></a>
+																		</div>
+																		<div class="mmb-container"><div class="mobile-menu-button 1 mobile-menu-button-light lines-button x2"><span class="lines"></span></div></div>
+																	</div>
+																	<div class="col-lg-12 main-menu-container middle">
+																		<div class="menu-horizontal menu-dd-shadow-lg">
+																			<div class="menu-horizontal-inner">
+																				<div class="nav navbar-nav navbar-main navbar-nav-first"><ul id="menu-top-menu" class="menu-primary-inner menu-smart sm"><li id="menu-item-77021" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-77021 menu-item-link"><a title="ROAM" href="https://anywhereweroam.com/roam/">ROAM<i class="fa fa-angle-right fa-dropdown"></i></a></li>
+<li id="menu-item-67638" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-67638 menu-item-link"><a title="PLACES" href="https://anywhereweroam.com/places/">PLACES<i class="fa fa-angle-right fa-dropdown"></i></a></li>
+<li id="menu-item-67800" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-67800 menu-item-link"><a title="ITINERARIES" href="https://anywhereweroam.com/itineraries/">ITINERARIES<i class="fa fa-angle-right fa-dropdown"></i></a></li>
+<li id="menu-item-68741" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-68741 menu-item-link"><a title="BLOG" href="https://anywhereweroam.com/blog/">BLOG<i class="fa fa-angle-right fa-dropdown"></i></a></li>
+<li id="menu-item-83562" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-83562 menu-item-link"><a title="ABOUT" href="https://anywhereweroam.com/about/">ABOUT<i class="fa fa-angle-right fa-dropdown"></i></a></li>
+</ul></div><div class="nav navbar-nav navbar-nav-last"><ul class="menu-smart sm menu-icons menu-smart-social"><li class="menu-item-link social-icon tablet-hidden mobile-hidden social-679499"><a href="https://www.instagram.com/Anywhere_We_Roam/" class="social-menu-link" target="_blank"><i class="fa fa-instagram"></i></a></li><li class="menu-item-link social-icon tablet-hidden mobile-hidden social-816565"><a href="https://www.facebook.com/anywhereweroam" class="social-menu-link" target="_blank"><i class="fa fa-facebook-square"></i></a></li><li class="menu-item-link social-icon tablet-hidden mobile-hidden social-172871"><a href="https://twitter.com/anywhereweroam" class="social-menu-link" target="_blank"><i class="fa fa-twitter"></i></a></li><li class="menu-item-link social-icon tablet-hidden mobile-hidden social-961628"><a href="https://www.pinterest.co.uk/anywhereweroam" class="social-menu-link" target="_blank"><i class="fa fa-pinterest"></i></a></li><li class="menu-item-link search-icon style-light dropdown"><a href="#" class="trigger-overlay search-icon" data-area="search" data-container="box-container">
+													<i class="fa fa-search3"></i><span class="desktop-hidden"><span>Search</span></span><i class="fa fa-angle-down fa-dropdown desktop-hidden"></i>
+													</a>
+													<ul role="menu" class="drop-menu desktop-hidden">
+														<li>
+															<form class="search" method="get" action="https://anywhereweroam.com/">
+																<input type="search" class="search-field no-livesearch" placeholder="Search…" value="" name="s" title="Search for:" />
+															</form>
+														</li>
+													</ul></li></ul></div></div>
+																		</div>
+																	</div>
+																</div>
+															</div>
+														</div>
+													</header>
+												</div>			<script type="text/javascript">UNCODE.fixMenuHeight();</script>
+			<div class="main-wrapper">
+				<div class="main-container">
+					<div class="page-wrapper">
+						<div class="sections-container">
+<div id="page-header"><div class="header-wrapper header-uncode-block">
+									<div data-parent="true" class="vc_row style-color-gyho-bg row-container"><div class="row-background background-element">
+											<div class="background-wrapper">
+												<div class="background-inner adaptive-async" style="background-image: url(https://anywhereweroam.com/wp-content/uploads/2019/05/anywhere-we-roam-best-uk-travel-blog-2019-uai-250x167.jpg);background-repeat: no-repeat;background-position: center center;background-attachment: fixed;background-size: cover;" data-uniqueid="88900-160798" data-guid="https://anywhereweroam.com/wp-content/uploads/2019/05/anywhere-we-roam-best-uk-travel-blog-2019.jpg" data-path="2019/05/anywhere-we-roam-best-uk-travel-blog-2019.jpg" data-width="1200" data-height="800" data-singlew="12" data-singleh="null" data-crop=""></div>
+												<div class="block-bg-overlay style-color-wayh-bg" style="opacity: 0;"></div>
+											</div>
+										</div><div class="row limit-width row-parent row-header" data-height-ratio="full"><div class="row-inner"><div class="pos-bottom pos-center align_center column_parent col-lg-12 one-internal-gutter"><div class="uncol style-dark"  ><div class="uncoltable"><div class="uncell quad-block-padding"><div class="uncont"><div class="animate_when_almost_visible bottom-t-top icon-box icon-box-top" data-delay="300" data-speed="400"><div class="icon-box-icon fa-container" style="margin-bottom: 0px;"><span class="fa fa-stack fa-2x btn-default fa-rounded btn-outline btn-disable-hover"><i class="fa fa-arrow-down2"></i></span></div></div><div class="empty-space empty-single"><span class="empty-space-inner"></span></div>
+<div class="heading-text el-text alpha-anim animate_when_almost_visible" ><h1 class="h4 fontspace-210350 text-uppercase" ><span>BEST UK TRAVEL BLOG 2019</span></h1></div><div class="clear"></div><div class="empty-space empty-quart"><span class="empty-space-inner"></span></div>
+<div class="heading-text el-text alpha-anim animate_when_almost_visible" ><h1 class="h5 font-weight-500 text-uppercase" ><span>UK BLOG AWARDS</span></h1></div><div class="clear"></div></div></div></div></div></div><script id="script-922698" data-row="script-922698" type="text/javascript">if ( typeof UNCODE !== "undefined" ) { UNCODE.initRow(document.getElementById("script-922698")); }</script></div></div></div></div></div><script type="text/javascript">UNCODE.initHeader();</script><article id="post-67409" class="page-body style-color-xsdn-bg post-67409 page type-page status-publish has-post-thumbnail hentry">
+						<div class="post-wrapper">
+							<div class="post-body"><div class="post-content un-no-sidebar-layout"><div data-parent="true" class="vc_row style-color-lxmt-bg row-container onepage-section" data-label="start" data-name="start"><div class="row unequal quad-top-padding double-bottom-padding single-h-padding limit-width row-parent" data-minheight="480"><div class="row-inner"><div class="pos-middle pos-center align_center column_parent col-lg-12 single-internal-gutter"><div class="uncol style-light"  ><div class="uncoltable"><div class="uncell"><div class="uncont no-block-padding col-custom-width" style="max-width:804px;"><div class="empty-space empty-single"><span class="empty-space-inner"></span></div>
+<div class="uncode_text_column" ><p style="line-height: 1.4;">It’s a big wide world out there. A world of cultural charms and natural wonders; of mega-cities and remote outposts; of paths to cross and lessons to learn; of limitless kindness and harsh realities.</p>
+<p style="line-height: 1.4;">We travel to enquire, to hear stories and to be awestruck by incredible scenery. To witness the ingenuity and defiance of individuals and the remarkable output of their cooperation. To be humbled by the history of yesterday, informed about the politics of today and excited by the possibilities of tomorrow.</p>
+<p style="line-height: 1.4;">We travel to have fun.</p>
+<p style="line-height: 1.4;">Anywhere We Roam is the story of our travels. The moments that moved us, the characters we encountered and the stage upon which it is all set. It’s a big wide world out there, come see it with us.</p>
+</div><div class="empty-space empty-double"><span class="empty-space-inner"></span></div>
+<div class="uncode-vc-social"><div class="social-icon icon-box icon-box-top icon-inline"><a href="https://www.instagram.com/Anywhere_We_Roam/" target="_blank"><i class="fa fa-instagram"></i></a></div><div class="social-icon icon-box icon-box-top icon-inline"><a href="https://www.facebook.com/anywhereweroam" target="_blank"><i class="fa fa-facebook-square"></i></a></div><div class="social-icon icon-box icon-box-top icon-inline"><a href="https://twitter.com/anywhereweroam" target="_blank"><i class="fa fa-twitter"></i></a></div><div class="social-icon icon-box icon-box-top icon-inline"><a href="https://www.pinterest.co.uk/anywhereweroam" target="_blank"><i class="fa fa-pinterest"></i></a></div></div></div></div></div></div></div><script id="script-105094" data-row="script-105094" type="text/javascript">if ( typeof UNCODE !== "undefined" ) { UNCODE.initRow(document.getElementById("script-105094")); }</script></div></div></div><div data-parent="true" class="vc_row row-container mobile-hidden"><div class="row quad-top-padding double-bottom-padding one-h-padding limit-width row-parent" data-minheight="700"><div class="row-inner"><div class="pos-middle pos-center align_center column_parent col-lg-12 single-internal-gutter"><div class="uncol style-dark shift_x_single"  ><div class="uncoltable"><div class="uncell no-block-padding"><div class="uncont"><div class="heading-text el-text" ><h2 class="h6 fontspace-210350 font-weight-500 text-color-prif-color" ><span>OUR FAVOURITE ARTICLES</span></h2><hr class="separator-break separator-accent" /></div><div class="clear"></div><div id="index-385213" class="isotope-system isotope-general-light">
+									<div class="isotope-wrapper half-gutter">
+			<div class="isotope-container isotope-layout style-metro isotope-pagination" data-type="metro" data-layout="masonry" data-lg="1000" data-md="600" data-sm="480" data-vp-height="">
+		<div class="tmb tmb-iso-w7 tmb-iso-h5 tmb-light tmb-overlay-gradient-bottom tmb-text-showed tmb-overlay-showed tmb-overlay-text-reduced tmb-overlay-center tmb-overlay-bottom tmb-overlay-text-center tmb-image-color-anim tmb-bordered  grid-cat-2 grid-cat-6002 tmb-id-83267 tmb-media-first tmb-media-last tmb-content-overlay tmb-no-bg">
+						<div class="t-inside" ><div class="t-entry-visual"><div class="t-entry-visual-tc"><div class="t-entry-visual-cont"><a tabindex="-1" href="https://anywhereweroam.com/self-drive-etosha-safari/" target="_self" data-lb-index="0"><div class="t-entry-visual-overlay"><div class="t-entry-visual-overlay-in style-color-jevc-bg" style="opacity: 0.65;"></div></div>
+									<div class="t-overlay-wrap">
+										<div class="t-overlay-inner">
+											<div class="t-overlay-content">
+												<div class="t-overlay-text single-block-padding"><div class="t-entry"><hr class="separator-reduced" /><h2 class="t-entry-title font-134857 h3 font-weight-600">Our complete guide for your self-drive Etosha safari</h2><hr class="separator-reduced" /></div></div></div></div></div><div class="t-background-cover adaptive-async" style="background-image:url('https://anywhereweroam.com/wp-content/uploads/2018/11/self-drive-etosha-safari18-uai-250x178.jpg')" data-uniqueid="83268-310137" data-guid="https://anywhereweroam.com/wp-content/uploads/2018/11/self-drive-etosha-safari18.jpg" data-path="2018/11/self-drive-etosha-safari18.jpg" data-width="1024" data-height="683" data-singlew="7" data-singleh="5" data-crop="1" data-fixed=""></div></a></div>
+				</div>
+			</div></div>
+					</div><div class="tmb tmb-iso-w4 tmb-iso-h1 tmb-light tmb-overlay-text-anim tmb-overlay-anim tmb-content-lateral-left tmb-content-vertical-top tmb-content-size-4 tmb-content-lateral-responsive tmb-content-left tmb-bordered  grid-cat-2 grid-cat-120 tmb-id-77194 tmb-content-lateral tmb-media-first tmb-no-bg">
+						<div class="t-inside" ><div class="t-entry-visual"><div class="t-entry-visual-tc"><div class="t-entry-visual-cont"><a tabindex="-1" href="https://anywhereweroam.com/hiking-tre-cime-di-lavaredo/" target="_self" data-lb-index="1"><div class="t-entry-visual-overlay"><div class="t-entry-visual-overlay-in style-color-jevc-bg" style="opacity: 0.45;"></div></div>
+									<div class="t-overlay-wrap">
+										<div class="t-overlay-inner">
+											<div class="t-overlay-content">
+												<div class="t-overlay-text half-block-padding"><div class="t-entry t-single-line"><i class="fa fa-arrow-right t-icon-size-sm t-overlay-icon"></i></div></div></div></div></div><div class="t-background-cover adaptive-async" style="background-image:url('https://anywhereweroam.com/wp-content/uploads/2018/03/tre-cime-di-lavaredo-9-uai-250x167.jpg')" data-uniqueid="80914-522161" data-guid="https://anywhereweroam.com/wp-content/uploads/2018/03/tre-cime-di-lavaredo-9.jpg" data-path="2018/03/tre-cime-di-lavaredo-9.jpg" data-width="1024" data-height="683" data-singlew="1.3333333333333" data-singleh="" data-crop="1" data-fixed=""></div></a></div>
+				</div>
+			</div><div class="t-entry-text">
+							<div class="t-entry-text-tc half-block-padding"><div class="t-entry"><h2 class="t-entry-title font-134857 h6 font-weight-600"><a href="https://anywhereweroam.com/hiking-tre-cime-di-lavaredo/" target="_self">Complete guide to hiking Tre Cime di Lavaredo loop</a></h2></div></div>
+					</div></div>
+					</div><div class="tmb tmb-iso-w4 tmb-iso-h1 tmb-light tmb-overlay-text-anim tmb-overlay-anim tmb-content-lateral-left tmb-content-vertical-top tmb-content-size-4 tmb-content-lateral-responsive tmb-content-left tmb-bordered  grid-cat-2 grid-cat-6002 tmb-id-83673 tmb-content-lateral tmb-media-first tmb-no-bg">
+						<div class="t-inside" ><div class="t-entry-visual"><div class="t-entry-visual-tc"><div class="t-entry-visual-cont"><a tabindex="-1" href="https://anywhereweroam.com/namibia-wildlife-conservation/" target="_self" data-lb-index="2"><div class="t-entry-visual-overlay"><div class="t-entry-visual-overlay-in style-color-jevc-bg" style="opacity: 0.45;"></div></div>
+									<div class="t-overlay-wrap">
+										<div class="t-overlay-inner">
+											<div class="t-overlay-content">
+												<div class="t-overlay-text half-block-padding"><div class="t-entry t-single-line"><i class="fa fa-arrow-right t-icon-size-sm t-overlay-icon"></i></div></div></div></div></div><div class="t-background-cover adaptive-async" style="background-image:url('https://anywhereweroam.com/wp-content/uploads/2018/11/namibia_wildlife_conservation_-8-uai-250x167.jpg')" data-uniqueid="83677-111069" data-guid="https://anywhereweroam.com/wp-content/uploads/2018/11/namibia_wildlife_conservation_-8.jpg" data-path="2018/11/namibia_wildlife_conservation_-8.jpg" data-width="1000" data-height="667" data-singlew="1.3333333333333" data-singleh="" data-crop="1" data-fixed=""></div></a></div>
+				</div>
+			</div><div class="t-entry-text">
+							<div class="t-entry-text-tc half-block-padding"><div class="t-entry"><h2 class="t-entry-title font-134857 h6 font-weight-600"><a href="https://anywhereweroam.com/namibia-wildlife-conservation/" target="_self">Trophy hunting &#038; Namibia’s wildlife conservation challenge</a></h2></div></div>
+					</div></div>
+					</div><div class="tmb tmb-iso-w4 tmb-iso-h1 tmb-light tmb-overlay-text-anim tmb-overlay-anim tmb-content-lateral-left tmb-content-vertical-top tmb-content-size-4 tmb-content-lateral-responsive tmb-content-left tmb-bordered  grid-cat-2 grid-cat-131 tmb-id-86073 tmb-content-lateral tmb-media-first tmb-no-bg">
+						<div class="t-inside" ><div class="t-entry-visual"><div class="t-entry-visual-tc"><div class="t-entry-visual-cont"><a tabindex="-1" href="https://anywhereweroam.com/mexico-road-trip/" target="_self" data-lb-index="3"><div class="t-entry-visual-overlay"><div class="t-entry-visual-overlay-in style-color-jevc-bg" style="opacity: 0.45;"></div></div>
+									<div class="t-overlay-wrap">
+										<div class="t-overlay-inner">
+											<div class="t-overlay-content">
+												<div class="t-overlay-text half-block-padding"><div class="t-entry t-single-line"><i class="fa fa-arrow-right t-icon-size-sm t-overlay-icon"></i></div></div></div></div></div><div class="t-background-cover adaptive-async" style="background-image:url('https://anywhereweroam.com/wp-content/uploads/2019/01/things-to-do-in-mexico-3-uai-250x167.jpg')" data-uniqueid="85824-175605" data-guid="https://anywhereweroam.com/wp-content/uploads/2019/01/things-to-do-in-mexico-3.jpg" data-path="2019/01/things-to-do-in-mexico-3.jpg" data-width="1000" data-height="667" data-singlew="1.3333333333333" data-singleh="" data-crop="1" data-fixed=""></div></a></div>
+				</div>
+			</div><div class="t-entry-text">
+							<div class="t-entry-text-tc half-block-padding"><div class="t-entry"><h2 class="t-entry-title font-134857 h6 font-weight-600"><a href="https://anywhereweroam.com/mexico-road-trip/" target="_self">Mexico road trip &#8211; Impressions of a challenging journey</a></h2></div></div>
+					</div></div>
+					</div><div class="tmb tmb-iso-w4 tmb-iso-h1 tmb-light tmb-overlay-text-anim tmb-overlay-anim tmb-content-lateral-left tmb-content-vertical-top tmb-content-size-4 tmb-content-lateral-responsive tmb-content-left tmb-bordered  grid-cat-2 grid-cat-120 grid-cat-121 grid-cat-161 tmb-id-77096 tmb-content-lateral tmb-media-first tmb-no-bg">
+						<div class="t-inside" ><div class="t-entry-visual"><div class="t-entry-visual-tc"><div class="t-entry-visual-cont"><a tabindex="-1" href="https://anywhereweroam.com/summer-alps/" target="_self" data-lb-index="4"><div class="t-entry-visual-overlay"><div class="t-entry-visual-overlay-in style-color-jevc-bg" style="opacity: 0.45;"></div></div>
+									<div class="t-overlay-wrap">
+										<div class="t-overlay-inner">
+											<div class="t-overlay-content">
+												<div class="t-overlay-text half-block-padding"><div class="t-entry t-single-line"><i class="fa fa-arrow-right t-icon-size-sm t-overlay-icon"></i></div></div></div></div></div><div class="t-background-cover adaptive-async" style="background-image:url('https://anywhereweroam.com/wp-content/uploads/2018/03/FA4A9889-2-uai-250x167.jpg')" data-uniqueid="77100-171737" data-guid="https://anywhereweroam.com/wp-content/uploads/2018/03/FA4A9889-2.jpg" data-path="2018/03/FA4A9889-2.jpg" data-width="1024" data-height="683" data-singlew="1.3333333333333" data-singleh="" data-crop="1" data-fixed=""></div></a></div>
+				</div>
+			</div><div class="t-entry-text">
+							<div class="t-entry-text-tc half-block-padding"><div class="t-entry"><h2 class="t-entry-title font-134857 h6 font-weight-600"><a href="https://anywhereweroam.com/summer-alps/" target="_self">Best destinations for hiking in the Alps in summer</a></h2></div></div>
+					</div></div>
+					</div><div class="tmb tmb-iso-w4 tmb-iso-h1 tmb-light tmb-overlay-text-anim tmb-overlay-anim tmb-content-lateral-left tmb-content-vertical-top tmb-content-size-4 tmb-content-lateral-responsive tmb-content-left tmb-bordered  grid-cat-2 grid-cat-135 tmb-id-81768 tmb-content-lateral tmb-media-first tmb-no-bg">
+						<div class="t-inside" ><div class="t-entry-visual"><div class="t-entry-visual-tc"><div class="t-entry-visual-cont"><a tabindex="-1" href="https://anywhereweroam.com/langa-township-tour/" target="_self" data-lb-index="5"><div class="t-entry-visual-overlay"><div class="t-entry-visual-overlay-in style-color-jevc-bg" style="opacity: 0.45;"></div></div>
+									<div class="t-overlay-wrap">
+										<div class="t-overlay-inner">
+											<div class="t-overlay-content">
+												<div class="t-overlay-text half-block-padding"><div class="t-entry t-single-line"><i class="fa fa-arrow-right t-icon-size-sm t-overlay-icon"></i></div></div></div></div></div><div class="t-background-cover adaptive-async" style="background-image:url('https://anywhereweroam.com/wp-content/uploads/2018/09/langa-township-tour-cape-town9-uai-250x167.jpg')" data-uniqueid="81770-100356" data-guid="https://anywhereweroam.com/wp-content/uploads/2018/09/langa-township-tour-cape-town9.jpg" data-path="2018/09/langa-township-tour-cape-town9.jpg" data-width="1000" data-height="667" data-singlew="1.3333333333333" data-singleh="" data-crop="1" data-fixed=""></div></a></div>
+				</div>
+			</div><div class="t-entry-text">
+							<div class="t-entry-text-tc half-block-padding"><div class="t-entry"><h2 class="t-entry-title font-134857 h6 font-weight-600"><a href="https://anywhereweroam.com/langa-township-tour/" target="_self">Should you take a Langa Township Tour in Cape Town?</a></h2></div></div>
+					</div></div>
+					</div>		</div>
+
+		</div>
+		</div>
+</div></div></div></div></div><script id="script-149791" data-row="script-149791" type="text/javascript">if ( typeof UNCODE !== "undefined" ) { UNCODE.initRow(document.getElementById("script-149791")); }</script></div></div></div><div data-parent="true" class="vc_row row-container desktop-hidden tablet-hidden"><div class="row quad-top-padding double-bottom-padding single-h-padding limit-width row-parent" data-minheight="700"><div class="row-inner"><div class="pos-middle pos-center align_center column_parent col-lg-12 single-internal-gutter"><div class="uncol style-light"  ><div class="uncoltable"><div class="uncell no-block-padding"><div class="uncont"><div class="heading-text el-text" ><h2 class="h6 fontspace-210350 font-weight-500 text-color-prif-color" ><span>OUR FAVOURITE ARTICLES</span></h2><hr class="separator-break separator-accent" /></div><div class="clear"></div><div id="index-507276" class="isotope-system isotope-general-light Line">
+									<div class="isotope-wrapper half-gutter">
+			<div class="isotope-container isotope-layout style-masonry isotope-pagination" data-type="masonry" data-layout="fitRows" data-lg="600" data-md="600" data-sm="480" data-vp-height="">
+		<div class="tmb tmb-iso-w12 tmb-iso-h4 tmb-light tmb-overlay-text-anim tmb-overlay-anim tmb-content-left tmb-content-mobile-center tmb-shadowed tmb-shadowed-sm tmb-entry-title-uppercase  grid-cat-2 grid-cat-120 tmb-id-77194 tmb-img-ratio tmb-content-under tmb-media-first">
+						<div class="t-inside style-color-lxmt-bg" ><div class="t-entry-visual"><div class="t-entry-visual-tc"><div class="t-entry-visual-cont"><div class="dummy" style="padding-top: 56%;"></div><a tabindex="-1" href="https://anywhereweroam.com/hiking-tre-cime-di-lavaredo/" class="pushed" target="_self" data-lb-index="0"><div class="t-entry-visual-overlay"><div class="t-entry-visual-overlay-in style-color-jevc-bg" style="opacity: 0.25;"></div></div>
+									<div class="t-overlay-wrap">
+										<div class="t-overlay-inner">
+											<div class="t-overlay-content">
+												<div class="t-overlay-text half-block-padding"><div class="t-entry t-single-line"><i class="fa fa-arrow-right t-icon-size-md t-overlay-icon"></i></div></div></div></div></div><img class="adaptive-async" src="https://anywhereweroam.com/wp-content/uploads/2018/03/tre-cime-di-lavaredo-9-uai-250x140.jpg" width="250" height="140" alt="hiking in tre cime di lavaredo" data-uniqueid="80914-145264" data-guid="https://anywhereweroam.com/wp-content/uploads/2018/03/tre-cime-di-lavaredo-9.jpg" data-path="2018/03/tre-cime-di-lavaredo-9.jpg" data-width="1024" data-height="683" data-singlew="12" data-singleh="6.75" data-crop="1" data-fixed="" /></a></div>
+				</div>
+			</div><div class="t-entry-text">
+							<div class="t-entry-text-tc half-block-padding"><div class="t-entry"><h6 class="t-entry-title fontsize-212006 font-weight-500"><a href="https://anywhereweroam.com/hiking-tre-cime-di-lavaredo/" target="_self">Complete guide to hiking Tre Cime di Lavaredo loop</a></h6></div></div>
+					</div></div>
+					</div><div class="tmb tmb-iso-w12 tmb-iso-h4 tmb-light tmb-overlay-text-anim tmb-overlay-anim tmb-content-left tmb-content-mobile-center tmb-shadowed tmb-shadowed-sm tmb-entry-title-uppercase  grid-cat-2 grid-cat-6002 tmb-id-83673 tmb-img-ratio tmb-content-under tmb-media-first">
+						<div class="t-inside style-color-lxmt-bg" ><div class="t-entry-visual"><div class="t-entry-visual-tc"><div class="t-entry-visual-cont"><div class="dummy" style="padding-top: 56%;"></div><a tabindex="-1" href="https://anywhereweroam.com/namibia-wildlife-conservation/" class="pushed" target="_self" data-lb-index="1"><div class="t-entry-visual-overlay"><div class="t-entry-visual-overlay-in style-color-jevc-bg" style="opacity: 0.25;"></div></div>
+									<div class="t-overlay-wrap">
+										<div class="t-overlay-inner">
+											<div class="t-overlay-content">
+												<div class="t-overlay-text half-block-padding"><div class="t-entry t-single-line"><i class="fa fa-arrow-right t-icon-size-md t-overlay-icon"></i></div></div></div></div></div><img class="adaptive-async" src="https://anywhereweroam.com/wp-content/uploads/2018/11/namibia_wildlife_conservation_-8-uai-250x140.jpg" width="250" height="140" alt="Namibia Wildlife Conservation" data-uniqueid="83677-137180" data-guid="https://anywhereweroam.com/wp-content/uploads/2018/11/namibia_wildlife_conservation_-8.jpg" data-path="2018/11/namibia_wildlife_conservation_-8.jpg" data-width="1000" data-height="667" data-singlew="12" data-singleh="6.75" data-crop="1" data-fixed="" /></a></div>
+				</div>
+			</div><div class="t-entry-text">
+							<div class="t-entry-text-tc half-block-padding"><div class="t-entry"><h6 class="t-entry-title fontsize-212006 font-weight-500"><a href="https://anywhereweroam.com/namibia-wildlife-conservation/" target="_self">Trophy hunting &#038; Namibia’s wildlife conservation challenge</a></h6></div></div>
+					</div></div>
+					</div><div class="tmb tmb-iso-w12 tmb-iso-h4 tmb-light tmb-overlay-text-anim tmb-overlay-anim tmb-content-left tmb-content-mobile-center tmb-shadowed tmb-shadowed-sm tmb-entry-title-uppercase  grid-cat-2 grid-cat-131 tmb-id-86073 tmb-img-ratio tmb-content-under tmb-media-first">
+						<div class="t-inside style-color-lxmt-bg" ><div class="t-entry-visual"><div class="t-entry-visual-tc"><div class="t-entry-visual-cont"><div class="dummy" style="padding-top: 56%;"></div><a tabindex="-1" href="https://anywhereweroam.com/mexico-road-trip/" class="pushed" target="_self" data-lb-index="2"><div class="t-entry-visual-overlay"><div class="t-entry-visual-overlay-in style-color-jevc-bg" style="opacity: 0.25;"></div></div>
+									<div class="t-overlay-wrap">
+										<div class="t-overlay-inner">
+											<div class="t-overlay-content">
+												<div class="t-overlay-text half-block-padding"><div class="t-entry t-single-line"><i class="fa fa-arrow-right t-icon-size-md t-overlay-icon"></i></div></div></div></div></div><img class="adaptive-async" src="https://anywhereweroam.com/wp-content/uploads/2019/01/things-to-do-in-mexico-3-uai-250x140.jpg" width="250" height="140" alt="Things to do in Mexico" data-uniqueid="85824-158834" data-guid="https://anywhereweroam.com/wp-content/uploads/2019/01/things-to-do-in-mexico-3.jpg" data-path="2019/01/things-to-do-in-mexico-3.jpg" data-width="1000" data-height="667" data-singlew="12" data-singleh="6.75" data-crop="1" data-fixed="" /></a></div>
+				</div>
+			</div><div class="t-entry-text">
+							<div class="t-entry-text-tc half-block-padding"><div class="t-entry"><h6 class="t-entry-title fontsize-212006 font-weight-500"><a href="https://anywhereweroam.com/mexico-road-trip/" target="_self">Mexico road trip &#8211; Impressions of a challenging journey</a></h6></div></div>
+					</div></div>
+					</div><div class="tmb tmb-iso-w12 tmb-iso-h4 tmb-light tmb-overlay-text-anim tmb-overlay-anim tmb-content-left tmb-content-mobile-center tmb-shadowed tmb-shadowed-sm tmb-entry-title-uppercase  grid-cat-2 grid-cat-120 grid-cat-121 grid-cat-161 tmb-id-77096 tmb-img-ratio tmb-content-under tmb-media-first">
+						<div class="t-inside style-color-lxmt-bg" ><div class="t-entry-visual"><div class="t-entry-visual-tc"><div class="t-entry-visual-cont"><div class="dummy" style="padding-top: 56%;"></div><a tabindex="-1" href="https://anywhereweroam.com/summer-alps/" class="pushed" target="_self" data-lb-index="3"><div class="t-entry-visual-overlay"><div class="t-entry-visual-overlay-in style-color-jevc-bg" style="opacity: 0.25;"></div></div>
+									<div class="t-overlay-wrap">
+										<div class="t-overlay-inner">
+											<div class="t-overlay-content">
+												<div class="t-overlay-text half-block-padding"><div class="t-entry t-single-line"><i class="fa fa-arrow-right t-icon-size-md t-overlay-icon"></i></div></div></div></div></div><img class="adaptive-async" src="https://anywhereweroam.com/wp-content/uploads/2018/03/FA4A9889-2-uai-250x140.jpg" width="250" height="140" alt="summer in the alps Eiger, Mönch and Jungfrau" data-uniqueid="77100-160900" data-guid="https://anywhereweroam.com/wp-content/uploads/2018/03/FA4A9889-2.jpg" data-path="2018/03/FA4A9889-2.jpg" data-width="1024" data-height="683" data-singlew="12" data-singleh="6.75" data-crop="1" data-fixed="" /></a></div>
+				</div>
+			</div><div class="t-entry-text">
+							<div class="t-entry-text-tc half-block-padding"><div class="t-entry"><h6 class="t-entry-title fontsize-212006 font-weight-500"><a href="https://anywhereweroam.com/summer-alps/" target="_self">Best destinations for hiking in the Alps in summer</a></h6></div></div>
+					</div></div>
+					</div><div class="tmb tmb-iso-w12 tmb-iso-h4 tmb-light tmb-overlay-text-anim tmb-overlay-anim tmb-content-left tmb-content-mobile-center tmb-shadowed tmb-shadowed-sm tmb-entry-title-uppercase  grid-cat-2 grid-cat-6002 tmb-id-83267 tmb-img-ratio tmb-content-under tmb-media-first">
+						<div class="t-inside style-color-lxmt-bg" ><div class="t-entry-visual"><div class="t-entry-visual-tc"><div class="t-entry-visual-cont"><div class="dummy" style="padding-top: 56%;"></div><a tabindex="-1" href="https://anywhereweroam.com/self-drive-etosha-safari/" class="pushed" target="_self" data-lb-index="4"><div class="t-entry-visual-overlay"><div class="t-entry-visual-overlay-in style-color-jevc-bg" style="opacity: 0.25;"></div></div>
+									<div class="t-overlay-wrap">
+										<div class="t-overlay-inner">
+											<div class="t-overlay-content">
+												<div class="t-overlay-text half-block-padding"><div class="t-entry t-single-line"><i class="fa fa-arrow-right t-icon-size-md t-overlay-icon"></i></div></div></div></div></div><img class="adaptive-async" src="https://anywhereweroam.com/wp-content/uploads/2018/11/self-drive-etosha-safari18-uai-250x140.jpg" width="250" height="140" alt="self drive etosha safari" data-uniqueid="83268-177417" data-guid="https://anywhereweroam.com/wp-content/uploads/2018/11/self-drive-etosha-safari18.jpg" data-path="2018/11/self-drive-etosha-safari18.jpg" data-width="1024" data-height="683" data-singlew="12" data-singleh="6.75" data-crop="1" data-fixed="" /></a></div>
+				</div>
+			</div><div class="t-entry-text">
+							<div class="t-entry-text-tc half-block-padding"><div class="t-entry"><h6 class="t-entry-title fontsize-212006 font-weight-500"><a href="https://anywhereweroam.com/self-drive-etosha-safari/" target="_self">Our complete guide for your self-drive Etosha safari</a></h6></div></div>
+					</div></div>
+					</div><div class="tmb tmb-iso-w12 tmb-iso-h4 tmb-light tmb-overlay-text-anim tmb-overlay-anim tmb-content-left tmb-content-mobile-center tmb-shadowed tmb-shadowed-sm tmb-entry-title-uppercase  grid-cat-2 grid-cat-135 tmb-id-81768 tmb-img-ratio tmb-content-under tmb-media-first">
+						<div class="t-inside style-color-lxmt-bg" ><div class="t-entry-visual"><div class="t-entry-visual-tc"><div class="t-entry-visual-cont"><div class="dummy" style="padding-top: 56%;"></div><a tabindex="-1" href="https://anywhereweroam.com/langa-township-tour/" class="pushed" target="_self" data-lb-index="5"><div class="t-entry-visual-overlay"><div class="t-entry-visual-overlay-in style-color-jevc-bg" style="opacity: 0.25;"></div></div>
+									<div class="t-overlay-wrap">
+										<div class="t-overlay-inner">
+											<div class="t-overlay-content">
+												<div class="t-overlay-text half-block-padding"><div class="t-entry t-single-line"><i class="fa fa-arrow-right t-icon-size-md t-overlay-icon"></i></div></div></div></div></div><img class="adaptive-async" src="https://anywhereweroam.com/wp-content/uploads/2018/09/langa-township-tour-cape-town9-uai-250x140.jpg" width="250" height="140" alt="Langa Township Tour in Cape Town" data-uniqueid="81770-125537" data-guid="https://anywhereweroam.com/wp-content/uploads/2018/09/langa-township-tour-cape-town9.jpg" data-path="2018/09/langa-township-tour-cape-town9.jpg" data-width="1000" data-height="667" data-singlew="12" data-singleh="6.75" data-crop="1" data-fixed="" /></a></div>
+				</div>
+			</div><div class="t-entry-text">
+							<div class="t-entry-text-tc half-block-padding"><div class="t-entry"><h6 class="t-entry-title fontsize-212006 font-weight-500"><a href="https://anywhereweroam.com/langa-township-tour/" target="_self">Should you take a Langa Township Tour in Cape Town?</a></h6></div></div>
+					</div></div>
+					</div>		</div>
+
+		</div>
+		</div>
+</div></div></div></div></div><script id="script-865203" data-row="script-865203" type="text/javascript">if ( typeof UNCODE !== "undefined" ) { UNCODE.initRow(document.getElementById("script-865203")); }</script></div></div></div><div data-parent="true" class="vc_row row-container"><div class="row-background background-element">
+											<div class="background-wrapper">
+												<div class="background-inner adaptive-async" style="background-image: url(https://anywhereweroam.com/wp-content/uploads/2019/06/ABOUT-US-anywhere-we-roam-uai-250x167.jpg);background-repeat: no-repeat;background-position: center center;background-attachment: fixed;background-size: cover;" data-uniqueid="89294-428977" data-guid="https://anywhereweroam.com/wp-content/uploads/2019/06/ABOUT-US-anywhere-we-roam.jpg" data-path="2019/06/ABOUT-US-anywhere-we-roam.jpg" data-width="1200" data-height="800" data-singlew="12" data-singleh="null" data-crop=""></div>
+												
+											</div>
+										</div><div class="row col-half-gutter triple-top-padding no-bottom-padding single-h-padding limit-width row-parent" data-minheight="620"><div class="row-inner"><div class="pos-middle pos-center align_center column_parent col-lg-12 half-internal-gutter"><div class="uncol style-light"  ><div class="uncoltable"><div class="uncell no-block-padding"><div class="uncont"><div class="heading-text el-text" ><h6 class="fontsize-212006 fontspace-210350 font-weight-500 text-uppercase" ><span>MEET MARK &amp; PAUL</span></h6></div><div class="clear"></div><span class="btn-container" ><a href="https://anywhereweroam.com/about/" class="custom-link btn border-width-0 btn-default btn-outline btn-icon-left btn-ripple-out btn-border-animated">ABOUT US</a></span></div></div></div></div></div><script id="script-871251" data-row="script-871251" type="text/javascript">if ( typeof UNCODE !== "undefined" ) { UNCODE.initRow(document.getElementById("script-871251")); }</script></div></div></div><div data-parent="true" class="vc_row row-container mobile-hidden"><div class="row double-top-padding double-bottom-padding single-h-padding limit-width row-parent"><div class="row-inner"><div class="pos-middle pos-center align_center column_parent col-lg-12 single-internal-gutter"><div class="uncol style-light"  ><div class="uncoltable"><div class="uncell no-block-padding"><div class="uncont"><div class="empty-space empty-half"><span class="empty-space-inner"></span></div>
+<div class="heading-text el-text" ><h2 class="h6 fontspace-210350 font-weight-500 text-color-prif-color" ><span>OUR LATEST ARTICLES</span></h2><hr class="separator-break separator-accent" /></div><div class="clear"></div><div id="index-507276" class="isotope-system isotope-general-light Line">
+									<div class="isotope-wrapper half-gutter">
+			<div class="isotope-container isotope-layout style-masonry isotope-pagination" data-type="masonry" data-layout="fitRows" data-lg="600" data-md="600" data-sm="480" data-vp-height="">
+		<div class="tmb tmb-iso-w4 tmb-iso-h4 tmb-light tmb-overlay-text-anim tmb-overlay-anim tmb-content-left tmb-entry-title-uppercase  grid-cat-2 grid-cat-9616 tmb-id-89325 tmb-content-under tmb-media-first tmb-no-bg">
+						<div class="t-inside" ><div class="t-entry-visual"><div class="t-entry-visual-tc"><div class="t-entry-visual-cont"><div class="dummy" style="padding-top: 66.8%;"></div><a tabindex="-1" href="https://anywhereweroam.com/things-to-do-in-trinidad-cuba/" class="pushed" target="_self" data-lb-index="0"><div class="t-entry-visual-overlay"><div class="t-entry-visual-overlay-in style-color-wvjs-bg" style="opacity: 0.3;"></div></div>
+									<div class="t-overlay-wrap">
+										<div class="t-overlay-inner">
+											<div class="t-overlay-content">
+												<div class="t-overlay-text half-block-padding"><div class="t-entry t-single-line"><i class="fa fa-arrow-right t-icon-size-md t-overlay-icon"></i></div></div></div></div></div><img class="adaptive-async" src="https://anywhereweroam.com/wp-content/uploads/2019/06/trinidad-quick-guide-10-uai-250x167.jpg" width="250" height="167" alt="What to do in Trinidad, where to eat and drink in Trinidad" data-uniqueid="89354-134657" data-guid="https://anywhereweroam.com/wp-content/uploads/2019/06/trinidad-quick-guide-10.jpg" data-path="2019/06/trinidad-quick-guide-10.jpg" data-width="1000" data-height="667" data-singlew="4" data-singleh="4" data-crop="" data-fixed="" /></a></div>
+				</div>
+			</div><div class="t-entry-text">
+							<div class="t-entry-text-tc half-block-padding"><div class="t-entry"><p class="t-entry-meta"><span class="t-entry-date">June 11, 2019</span></p><h6 class="t-entry-title h6 font-weight-500"><a href="https://anywhereweroam.com/things-to-do-in-trinidad-cuba/" target="_self">Quick guide to Trinidad, Cuba</a></h6><div class="t-entry-excerpt"><p>Take in a slice of real Trinidad away from the main squares and popular tourist haunts. Here’s our quick guide for Trinidad including our favourite cafes, sights, bars and day trips. </p>
+</div><p class="t-entry-meta"><span class="t-entry-category t-entry-tax"><a href="https://anywhereweroam.com/category/articles/">Articles</a><span class="cat-comma">,</span></span><span class="t-entry-category t-entry-tax"><a class="" href="https://anywhereweroam.com/category/cuba/">Cuba</a></span></p></div></div>
+					</div></div>
+					</div><div class="tmb tmb-iso-w4 tmb-iso-h4 tmb-light tmb-overlay-text-anim tmb-overlay-anim tmb-content-left tmb-entry-title-uppercase  grid-cat-2 grid-cat-9616 tmb-id-89120 tmb-content-under tmb-media-first tmb-no-bg">
+						<div class="t-inside" ><div class="t-entry-visual"><div class="t-entry-visual-tc"><div class="t-entry-visual-cont"><div class="dummy" style="padding-top: 66.8%;"></div><a tabindex="-1" href="https://anywhereweroam.com/el-nicho-waterfall/" class="pushed" target="_self" data-lb-index="1"><div class="t-entry-visual-overlay"><div class="t-entry-visual-overlay-in style-color-wvjs-bg" style="opacity: 0.3;"></div></div>
+									<div class="t-overlay-wrap">
+										<div class="t-overlay-inner">
+											<div class="t-overlay-content">
+												<div class="t-overlay-text half-block-padding"><div class="t-entry t-single-line"><i class="fa fa-arrow-right t-icon-size-md t-overlay-icon"></i></div></div></div></div></div><img class="adaptive-async" src="https://anywhereweroam.com/wp-content/uploads/2019/06/el-nicho-waterfall-cuba-pin-16-uai-250x167.jpg" width="250" height="167" alt="El Nicho Waterfall near Cienfuegos, Cuba" data-uniqueid="89197-151275" data-guid="https://anywhereweroam.com/wp-content/uploads/2019/06/el-nicho-waterfall-cuba-pin-16.jpg" data-path="2019/06/el-nicho-waterfall-cuba-pin-16.jpg" data-width="1200" data-height="800" data-singlew="4" data-singleh="4" data-crop="" data-fixed="" /></a></div>
+				</div>
+			</div><div class="t-entry-text">
+							<div class="t-entry-text-tc half-block-padding"><div class="t-entry"><p class="t-entry-meta"><span class="t-entry-date">June 4, 2019</span></p><h6 class="t-entry-title h6 font-weight-500"><a href="https://anywhereweroam.com/el-nicho-waterfall/" target="_self">Stunning wild swimming in the waterfalls of El Nicho</a></h6><div class="t-entry-excerpt"><p>Sitting in the natural pools and under the cascading waterfalls of El Nicho is a highlight of any trip to Cuba. Here’s all you need to know.</p>
+</div><p class="t-entry-meta"><span class="t-entry-category t-entry-tax"><a href="https://anywhereweroam.com/category/articles/">Articles</a><span class="cat-comma">,</span></span><span class="t-entry-category t-entry-tax"><a class="" href="https://anywhereweroam.com/category/cuba/">Cuba</a></span></p></div></div>
+					</div></div>
+					</div><div class="tmb tmb-iso-w4 tmb-iso-h4 tmb-light tmb-overlay-text-anim tmb-overlay-anim tmb-content-left tmb-entry-title-uppercase  grid-cat-2 grid-cat-9616 tmb-id-89015 tmb-content-under tmb-media-first tmb-no-bg">
+						<div class="t-inside" ><div class="t-entry-visual"><div class="t-entry-visual-tc"><div class="t-entry-visual-cont"><div class="dummy" style="padding-top: 66.8%;"></div><a tabindex="-1" href="https://anywhereweroam.com/vinales-valley-hike/" class="pushed" target="_self" data-lb-index="2"><div class="t-entry-visual-overlay"><div class="t-entry-visual-overlay-in style-color-wvjs-bg" style="opacity: 0.3;"></div></div>
+									<div class="t-overlay-wrap">
+										<div class="t-overlay-inner">
+											<div class="t-overlay-content">
+												<div class="t-overlay-text half-block-padding"><div class="t-entry t-single-line"><i class="fa fa-arrow-right t-icon-size-md t-overlay-icon"></i></div></div></div></div></div><img class="adaptive-async" src="https://anywhereweroam.com/wp-content/uploads/2019/05/vinales-cuba-hiking-22-uai-250x167.jpg" width="250" height="167" alt="Viñales Cuba, hiking in Viñales Valley, Cuba." data-uniqueid="89117-185948" data-guid="https://anywhereweroam.com/wp-content/uploads/2019/05/vinales-cuba-hiking-22.jpg" data-path="2019/05/vinales-cuba-hiking-22.jpg" data-width="1024" data-height="683" data-singlew="4" data-singleh="4" data-crop="" data-fixed="" /></a></div>
+				</div>
+			</div><div class="t-entry-text">
+							<div class="t-entry-text-tc half-block-padding"><div class="t-entry"><p class="t-entry-meta"><span class="t-entry-date">May 28, 2019</span></p><h6 class="t-entry-title h6 font-weight-500"><a href="https://anywhereweroam.com/vinales-valley-hike/" target="_self">How to hike without a guide in Viñales Valley, Cuba</a></h6><div class="t-entry-excerpt"><p>Viñales Valley has the finest scenery in Cuba. But with few signs hiking is tricky. This guide will help you to complete a fantastic hike.</p>
+</div><p class="t-entry-meta"><span class="t-entry-category t-entry-tax"><a href="https://anywhereweroam.com/category/articles/">Articles</a><span class="cat-comma">,</span></span><span class="t-entry-category t-entry-tax"><a class="" href="https://anywhereweroam.com/category/cuba/">Cuba</a></span></p></div></div>
+					</div></div>
+					</div><div class="tmb tmb-iso-w4 tmb-iso-h4 tmb-light tmb-overlay-text-anim tmb-overlay-anim tmb-content-left tmb-entry-title-uppercase  grid-cat-2 grid-cat-9616 tmb-id-87091 tmb-content-under tmb-media-first tmb-no-bg">
+						<div class="t-inside" ><div class="t-entry-visual"><div class="t-entry-visual-tc"><div class="t-entry-visual-cont"><div class="dummy" style="padding-top: 66.8%;"></div><a tabindex="-1" href="https://anywhereweroam.com/quick-guide-havana/" class="pushed" target="_self" data-lb-index="3"><div class="t-entry-visual-overlay"><div class="t-entry-visual-overlay-in style-color-wvjs-bg" style="opacity: 0.3;"></div></div>
+									<div class="t-overlay-wrap">
+										<div class="t-overlay-inner">
+											<div class="t-overlay-content">
+												<div class="t-overlay-text half-block-padding"><div class="t-entry t-single-line"><i class="fa fa-arrow-right t-icon-size-md t-overlay-icon"></i></div></div></div></div></div><img class="adaptive-async" src="https://anywhereweroam.com/wp-content/uploads/2019/04/havana-guiide-14-uai-250x167.jpg" width="250" height="167" alt="" data-uniqueid="87780-113816" data-guid="https://anywhereweroam.com/wp-content/uploads/2019/04/havana-guiide-14.jpg" data-path="2019/04/havana-guiide-14.jpg" data-width="1000" data-height="667" data-singlew="4" data-singleh="4" data-crop="" data-fixed="" /></a></div>
+				</div>
+			</div><div class="t-entry-text">
+							<div class="t-entry-text-tc half-block-padding"><div class="t-entry"><p class="t-entry-meta"><span class="t-entry-date">May 21, 2019</span></p><h6 class="t-entry-title h6 font-weight-500"><a href="https://anywhereweroam.com/quick-guide-havana/" target="_self">Quick Guide to Havana, Cuba</a></h6><div class="t-entry-excerpt"><p>Just want the essentials? Here’s our quick guide to Havana with our favourite places to eat, the most atmospheric places for a drink as well as our top picks for the best things to see and do. </p>
+</div><p class="t-entry-meta"><span class="t-entry-category t-entry-tax"><a href="https://anywhereweroam.com/category/articles/">Articles</a><span class="cat-comma">,</span></span><span class="t-entry-category t-entry-tax"><a class="" href="https://anywhereweroam.com/category/cuba/">Cuba</a></span></p></div></div>
+					</div></div>
+					</div><div class="tmb tmb-iso-w4 tmb-iso-h4 tmb-light tmb-overlay-text-anim tmb-overlay-anim tmb-content-left tmb-entry-title-uppercase  grid-cat-2 grid-cat-2703 tmb-id-88764 tmb-content-under tmb-media-first tmb-no-bg">
+						<div class="t-inside" ><div class="t-entry-visual"><div class="t-entry-visual-tc"><div class="t-entry-visual-cont"><div class="dummy" style="padding-top: 66.8%;"></div><a tabindex="-1" href="https://anywhereweroam.com/el-pinsapar/" class="pushed" target="_self" data-lb-index="4"><div class="t-entry-visual-overlay"><div class="t-entry-visual-overlay-in style-color-wvjs-bg" style="opacity: 0.3;"></div></div>
+									<div class="t-overlay-wrap">
+										<div class="t-overlay-inner">
+											<div class="t-overlay-content">
+												<div class="t-overlay-text half-block-padding"><div class="t-entry t-single-line"><i class="fa fa-arrow-right t-icon-size-md t-overlay-icon"></i></div></div></div></div></div><img class="adaptive-async" src="https://anywhereweroam.com/wp-content/uploads/2019/04/el-pinsapar-5-uai-250x167.jpg" width="250" height="167" alt="Hiking El Pinsapar in Sierra de Grazalema, Andalucía" data-uniqueid="88766-634646" data-guid="https://anywhereweroam.com/wp-content/uploads/2019/04/el-pinsapar-5.jpg" data-path="2019/04/el-pinsapar-5.jpg" data-width="1000" data-height="667" data-singlew="4" data-singleh="4" data-crop="" data-fixed="" /></a></div>
+				</div>
+			</div><div class="t-entry-text">
+							<div class="t-entry-text-tc half-block-padding"><div class="t-entry"><p class="t-entry-meta"><span class="t-entry-date">May 14, 2019</span></p><h6 class="t-entry-title h6 font-weight-500"><a href="https://anywhereweroam.com/el-pinsapar/" target="_self">Complete Guide to hiking El Pinsapar trail in Sierra de Grazalema</a></h6><div class="t-entry-excerpt"><p>The Sierra de Grazalema is a little unknown, but an excellent place to hike. Here's how to hike El Pinsapar.</p>
+</div><p class="t-entry-meta"><span class="t-entry-category t-entry-tax"><a href="https://anywhereweroam.com/category/articles/">Articles</a><span class="cat-comma">,</span></span><span class="t-entry-category t-entry-tax"><a class="" href="https://anywhereweroam.com/category/spain/">Spain</a></span></p></div></div>
+					</div></div>
+					</div><div class="tmb tmb-iso-w4 tmb-iso-h4 tmb-light tmb-overlay-text-anim tmb-overlay-anim tmb-content-left tmb-entry-title-uppercase  grid-cat-2 grid-cat-2703 tmb-id-88164 tmb-content-under tmb-media-first tmb-no-bg">
+						<div class="t-inside" ><div class="t-entry-visual"><div class="t-entry-visual-tc"><div class="t-entry-visual-cont"><div class="dummy" style="padding-top: 66.8%;"></div><a tabindex="-1" href="https://anywhereweroam.com/pueblos-blancos-andalucia/" class="pushed" target="_self" data-lb-index="5"><div class="t-entry-visual-overlay"><div class="t-entry-visual-overlay-in style-color-wvjs-bg" style="opacity: 0.3;"></div></div>
+									<div class="t-overlay-wrap">
+										<div class="t-overlay-inner">
+											<div class="t-overlay-content">
+												<div class="t-overlay-text half-block-padding"><div class="t-entry t-single-line"><i class="fa fa-arrow-right t-icon-size-md t-overlay-icon"></i></div></div></div></div></div><img class="adaptive-async" src="https://anywhereweroam.com/wp-content/uploads/2019/04/pueblos-blancos-white-villages-andalucia-11-uai-250x167.jpg" width="250" height="167" alt="Pueblos blancos white villages of andulcia" data-uniqueid="88165-345451" data-guid="https://anywhereweroam.com/wp-content/uploads/2019/04/pueblos-blancos-white-villages-andalucia-11.jpg" data-path="2019/04/pueblos-blancos-white-villages-andalucia-11.jpg" data-width="1000" data-height="667" data-singlew="4" data-singleh="4" data-crop="" data-fixed="" /></a></div>
+				</div>
+			</div><div class="t-entry-text">
+							<div class="t-entry-text-tc half-block-padding"><div class="t-entry"><p class="t-entry-meta"><span class="t-entry-date">May 7, 2019</span></p><h6 class="t-entry-title h6 font-weight-500"><a href="https://anywhereweroam.com/pueblos-blancos-andalucia/" target="_self">A driving tour through the pueblos blancos (white villages) of Andalucía</a></h6><div class="t-entry-excerpt"><p>Driving through the white villages of Andalucía is a great journey. Here is the perfect route to collect 5 of the best, and a blue one as well.</p>
+</div><p class="t-entry-meta"><span class="t-entry-category t-entry-tax"><a href="https://anywhereweroam.com/category/articles/">Articles</a><span class="cat-comma">,</span></span><span class="t-entry-category t-entry-tax"><a class="" href="https://anywhereweroam.com/category/spain/">Spain</a></span></p></div></div>
+					</div></div>
+					</div>		</div>
+
+		</div>
+		</div>
+<div class="empty-space empty-half"><span class="empty-space-inner"></span></div>
+<div class="uncode_text_column" ><p style="font-size: 13px;"><strong><span class="font-762333">ALL ARTICLES / <a href="https://anywhereweroam.com/blog/">BLOG</a></span></strong></p>
+</div></div></div></div></div></div><script id="script-338914" data-row="script-338914" type="text/javascript">if ( typeof UNCODE !== "undefined" ) { UNCODE.initRow(document.getElementById("script-338914")); }</script></div></div></div><div data-parent="true" class="vc_row row-container desktop-hidden tablet-hidden"><div class="row triple-top-padding single-bottom-padding single-h-padding limit-width row-parent"><div class="row-inner"><div class="pos-middle pos-center align_center column_parent col-lg-12 single-internal-gutter"><div class="uncol style-light"  ><div class="uncoltable"><div class="uncell no-block-padding"><div class="uncont"><div class="heading-text el-text" ><h2 class="h6 fontspace-210350 font-weight-500 text-color-prif-color" ><span>OUR LATEST ARTICLES</span></h2><hr class="separator-break separator-accent" /></div><div class="clear"></div><div id="index-507276" class="isotope-system isotope-general-light Line">
+									<div class="isotope-wrapper half-gutter">
+			<div class="isotope-container isotope-layout style-masonry isotope-pagination" data-type="masonry" data-layout="fitRows" data-lg="600" data-md="600" data-sm="480" data-vp-height="">
+		<div class="tmb tmb-iso-w12 tmb-iso-h4 tmb-light tmb-overlay-text-anim tmb-overlay-anim tmb-content-left tmb-shadowed tmb-shadowed-std tmb-entry-title-uppercase  grid-cat-2 grid-cat-9616 tmb-id-89325 tmb-img-ratio tmb-content-under tmb-media-first">
+						<div class="t-inside style-color-lxmt-bg" ><div class="t-entry-visual"><div class="t-entry-visual-tc"><div class="t-entry-visual-cont"><div class="dummy" style="padding-top: 56%;"></div><a tabindex="-1" href="https://anywhereweroam.com/things-to-do-in-trinidad-cuba/" class="pushed" target="_self" data-lb-index="0"><div class="t-entry-visual-overlay"><div class="t-entry-visual-overlay-in style-color-wvjs-bg" style="opacity: 0.3;"></div></div>
+									<div class="t-overlay-wrap">
+										<div class="t-overlay-inner">
+											<div class="t-overlay-content">
+												<div class="t-overlay-text half-block-padding"><div class="t-entry t-single-line"><i class="fa fa-arrow-right t-icon-size-md t-overlay-icon"></i></div></div></div></div></div><img class="adaptive-async" src="https://anywhereweroam.com/wp-content/uploads/2019/06/trinidad-quick-guide-10-uai-250x140.jpg" width="250" height="140" alt="What to do in Trinidad, where to eat and drink in Trinidad" data-uniqueid="89354-160951" data-guid="https://anywhereweroam.com/wp-content/uploads/2019/06/trinidad-quick-guide-10.jpg" data-path="2019/06/trinidad-quick-guide-10.jpg" data-width="1000" data-height="667" data-singlew="12" data-singleh="6.75" data-crop="1" data-fixed="" /></a></div>
+				</div>
+			</div><div class="t-entry-text">
+							<div class="t-entry-text-tc half-block-padding"><div class="t-entry"><p class="t-entry-meta"><span class="t-entry-date">June 11, 2019</span></p><h6 class="t-entry-title h6 font-weight-500"><a href="https://anywhereweroam.com/things-to-do-in-trinidad-cuba/" target="_self">Quick guide to Trinidad, Cuba</a></h6><p class="t-entry-meta"><span class="t-entry-category t-entry-tax"><a class="bordered-cat tmb-term-evidence font-ui" href="https://anywhereweroam.com/category/articles/">Articles</a></span><span class="t-entry-category t-entry-tax"><a class="bordered-cat tmb-term-evidence font-ui" href="https://anywhereweroam.com/category/cuba/">Cuba</a></span></p></div></div>
+					</div></div>
+					</div><div class="tmb tmb-iso-w12 tmb-iso-h4 tmb-light tmb-overlay-text-anim tmb-overlay-anim tmb-content-left tmb-shadowed tmb-shadowed-std tmb-entry-title-uppercase  grid-cat-2 grid-cat-9616 tmb-id-89120 tmb-img-ratio tmb-content-under tmb-media-first">
+						<div class="t-inside style-color-lxmt-bg" ><div class="t-entry-visual"><div class="t-entry-visual-tc"><div class="t-entry-visual-cont"><div class="dummy" style="padding-top: 56%;"></div><a tabindex="-1" href="https://anywhereweroam.com/el-nicho-waterfall/" class="pushed" target="_self" data-lb-index="1"><div class="t-entry-visual-overlay"><div class="t-entry-visual-overlay-in style-color-wvjs-bg" style="opacity: 0.3;"></div></div>
+									<div class="t-overlay-wrap">
+										<div class="t-overlay-inner">
+											<div class="t-overlay-content">
+												<div class="t-overlay-text half-block-padding"><div class="t-entry t-single-line"><i class="fa fa-arrow-right t-icon-size-md t-overlay-icon"></i></div></div></div></div></div><img class="adaptive-async" src="https://anywhereweroam.com/wp-content/uploads/2019/06/el-nicho-waterfall-cuba-pin-16-uai-250x140.jpg" width="250" height="140" alt="El Nicho Waterfall near Cienfuegos, Cuba" data-uniqueid="89197-208591" data-guid="https://anywhereweroam.com/wp-content/uploads/2019/06/el-nicho-waterfall-cuba-pin-16.jpg" data-path="2019/06/el-nicho-waterfall-cuba-pin-16.jpg" data-width="1200" data-height="800" data-singlew="12" data-singleh="6.75" data-crop="1" data-fixed="" /></a></div>
+				</div>
+			</div><div class="t-entry-text">
+							<div class="t-entry-text-tc half-block-padding"><div class="t-entry"><p class="t-entry-meta"><span class="t-entry-date">June 4, 2019</span></p><h6 class="t-entry-title h6 font-weight-500"><a href="https://anywhereweroam.com/el-nicho-waterfall/" target="_self">Stunning wild swimming in the waterfalls of El Nicho</a></h6><p class="t-entry-meta"><span class="t-entry-category t-entry-tax"><a class="bordered-cat tmb-term-evidence font-ui" href="https://anywhereweroam.com/category/articles/">Articles</a></span><span class="t-entry-category t-entry-tax"><a class="bordered-cat tmb-term-evidence font-ui" href="https://anywhereweroam.com/category/cuba/">Cuba</a></span></p></div></div>
+					</div></div>
+					</div><div class="tmb tmb-iso-w12 tmb-iso-h4 tmb-light tmb-overlay-text-anim tmb-overlay-anim tmb-content-left tmb-shadowed tmb-shadowed-std tmb-entry-title-uppercase  grid-cat-2 grid-cat-9616 tmb-id-89015 tmb-img-ratio tmb-content-under tmb-media-first">
+						<div class="t-inside style-color-lxmt-bg" ><div class="t-entry-visual"><div class="t-entry-visual-tc"><div class="t-entry-visual-cont"><div class="dummy" style="padding-top: 56%;"></div><a tabindex="-1" href="https://anywhereweroam.com/vinales-valley-hike/" class="pushed" target="_self" data-lb-index="2"><div class="t-entry-visual-overlay"><div class="t-entry-visual-overlay-in style-color-wvjs-bg" style="opacity: 0.3;"></div></div>
+									<div class="t-overlay-wrap">
+										<div class="t-overlay-inner">
+											<div class="t-overlay-content">
+												<div class="t-overlay-text half-block-padding"><div class="t-entry t-single-line"><i class="fa fa-arrow-right t-icon-size-md t-overlay-icon"></i></div></div></div></div></div><img class="adaptive-async" src="https://anywhereweroam.com/wp-content/uploads/2019/05/vinales-cuba-hiking-22-uai-250x140.jpg" width="250" height="140" alt="Viñales Cuba, hiking in Viñales Valley, Cuba." data-uniqueid="89117-217107" data-guid="https://anywhereweroam.com/wp-content/uploads/2019/05/vinales-cuba-hiking-22.jpg" data-path="2019/05/vinales-cuba-hiking-22.jpg" data-width="1024" data-height="683" data-singlew="12" data-singleh="6.75" data-crop="1" data-fixed="" /></a></div>
+				</div>
+			</div><div class="t-entry-text">
+							<div class="t-entry-text-tc half-block-padding"><div class="t-entry"><p class="t-entry-meta"><span class="t-entry-date">May 28, 2019</span></p><h6 class="t-entry-title h6 font-weight-500"><a href="https://anywhereweroam.com/vinales-valley-hike/" target="_self">How to hike without a guide in Viñales Valley, Cuba</a></h6><p class="t-entry-meta"><span class="t-entry-category t-entry-tax"><a class="bordered-cat tmb-term-evidence font-ui" href="https://anywhereweroam.com/category/articles/">Articles</a></span><span class="t-entry-category t-entry-tax"><a class="bordered-cat tmb-term-evidence font-ui" href="https://anywhereweroam.com/category/cuba/">Cuba</a></span></p></div></div>
+					</div></div>
+					</div><div class="tmb tmb-iso-w12 tmb-iso-h4 tmb-light tmb-overlay-text-anim tmb-overlay-anim tmb-content-left tmb-shadowed tmb-shadowed-std tmb-entry-title-uppercase  grid-cat-2 grid-cat-9616 tmb-id-87091 tmb-img-ratio tmb-content-under tmb-media-first">
+						<div class="t-inside style-color-lxmt-bg" ><div class="t-entry-visual"><div class="t-entry-visual-tc"><div class="t-entry-visual-cont"><div class="dummy" style="padding-top: 56%;"></div><a tabindex="-1" href="https://anywhereweroam.com/quick-guide-havana/" class="pushed" target="_self" data-lb-index="3"><div class="t-entry-visual-overlay"><div class="t-entry-visual-overlay-in style-color-wvjs-bg" style="opacity: 0.3;"></div></div>
+									<div class="t-overlay-wrap">
+										<div class="t-overlay-inner">
+											<div class="t-overlay-content">
+												<div class="t-overlay-text half-block-padding"><div class="t-entry t-single-line"><i class="fa fa-arrow-right t-icon-size-md t-overlay-icon"></i></div></div></div></div></div><img class="adaptive-async" src="https://anywhereweroam.com/wp-content/uploads/2019/04/havana-guiide-14-uai-250x140.jpg" width="250" height="140" alt="" data-uniqueid="87780-668631" data-guid="https://anywhereweroam.com/wp-content/uploads/2019/04/havana-guiide-14.jpg" data-path="2019/04/havana-guiide-14.jpg" data-width="1000" data-height="667" data-singlew="12" data-singleh="6.75" data-crop="1" data-fixed="" /></a></div>
+				</div>
+			</div><div class="t-entry-text">
+							<div class="t-entry-text-tc half-block-padding"><div class="t-entry"><p class="t-entry-meta"><span class="t-entry-date">May 21, 2019</span></p><h6 class="t-entry-title h6 font-weight-500"><a href="https://anywhereweroam.com/quick-guide-havana/" target="_self">Quick Guide to Havana, Cuba</a></h6><p class="t-entry-meta"><span class="t-entry-category t-entry-tax"><a class="bordered-cat tmb-term-evidence font-ui" href="https://anywhereweroam.com/category/articles/">Articles</a></span><span class="t-entry-category t-entry-tax"><a class="bordered-cat tmb-term-evidence font-ui" href="https://anywhereweroam.com/category/cuba/">Cuba</a></span></p></div></div>
+					</div></div>
+					</div><div class="tmb tmb-iso-w12 tmb-iso-h4 tmb-light tmb-overlay-text-anim tmb-overlay-anim tmb-content-left tmb-shadowed tmb-shadowed-std tmb-entry-title-uppercase  grid-cat-2 grid-cat-2703 tmb-id-88764 tmb-img-ratio tmb-content-under tmb-media-first">
+						<div class="t-inside style-color-lxmt-bg" ><div class="t-entry-visual"><div class="t-entry-visual-tc"><div class="t-entry-visual-cont"><div class="dummy" style="padding-top: 56%;"></div><a tabindex="-1" href="https://anywhereweroam.com/el-pinsapar/" class="pushed" target="_self" data-lb-index="4"><div class="t-entry-visual-overlay"><div class="t-entry-visual-overlay-in style-color-wvjs-bg" style="opacity: 0.3;"></div></div>
+									<div class="t-overlay-wrap">
+										<div class="t-overlay-inner">
+											<div class="t-overlay-content">
+												<div class="t-overlay-text half-block-padding"><div class="t-entry t-single-line"><i class="fa fa-arrow-right t-icon-size-md t-overlay-icon"></i></div></div></div></div></div><img class="adaptive-async" src="https://anywhereweroam.com/wp-content/uploads/2019/04/el-pinsapar-5-uai-250x140.jpg" width="250" height="140" alt="Hiking El Pinsapar in Sierra de Grazalema, Andalucía" data-uniqueid="88766-205756" data-guid="https://anywhereweroam.com/wp-content/uploads/2019/04/el-pinsapar-5.jpg" data-path="2019/04/el-pinsapar-5.jpg" data-width="1000" data-height="667" data-singlew="12" data-singleh="6.75" data-crop="1" data-fixed="" /></a></div>
+				</div>
+			</div><div class="t-entry-text">
+							<div class="t-entry-text-tc half-block-padding"><div class="t-entry"><p class="t-entry-meta"><span class="t-entry-date">May 14, 2019</span></p><h6 class="t-entry-title h6 font-weight-500"><a href="https://anywhereweroam.com/el-pinsapar/" target="_self">Complete Guide to hiking El Pinsapar trail in Sierra de Grazalema</a></h6><p class="t-entry-meta"><span class="t-entry-category t-entry-tax"><a class="bordered-cat tmb-term-evidence font-ui" href="https://anywhereweroam.com/category/articles/">Articles</a></span><span class="t-entry-category t-entry-tax"><a class="bordered-cat tmb-term-evidence font-ui" href="https://anywhereweroam.com/category/spain/">Spain</a></span></p></div></div>
+					</div></div>
+					</div><div class="tmb tmb-iso-w12 tmb-iso-h4 tmb-light tmb-overlay-text-anim tmb-overlay-anim tmb-content-left tmb-shadowed tmb-shadowed-std tmb-entry-title-uppercase  grid-cat-2 grid-cat-2703 tmb-id-88164 tmb-img-ratio tmb-content-under tmb-media-first">
+						<div class="t-inside style-color-lxmt-bg" ><div class="t-entry-visual"><div class="t-entry-visual-tc"><div class="t-entry-visual-cont"><div class="dummy" style="padding-top: 56%;"></div><a tabindex="-1" href="https://anywhereweroam.com/pueblos-blancos-andalucia/" class="pushed" target="_self" data-lb-index="5"><div class="t-entry-visual-overlay"><div class="t-entry-visual-overlay-in style-color-wvjs-bg" style="opacity: 0.3;"></div></div>
+									<div class="t-overlay-wrap">
+										<div class="t-overlay-inner">
+											<div class="t-overlay-content">
+												<div class="t-overlay-text half-block-padding"><div class="t-entry t-single-line"><i class="fa fa-arrow-right t-icon-size-md t-overlay-icon"></i></div></div></div></div></div><img class="adaptive-async" src="https://anywhereweroam.com/wp-content/uploads/2019/04/pueblos-blancos-white-villages-andalucia-11-uai-250x140.jpg" width="250" height="140" alt="Pueblos blancos white villages of andulcia" data-uniqueid="88165-156451" data-guid="https://anywhereweroam.com/wp-content/uploads/2019/04/pueblos-blancos-white-villages-andalucia-11.jpg" data-path="2019/04/pueblos-blancos-white-villages-andalucia-11.jpg" data-width="1000" data-height="667" data-singlew="12" data-singleh="6.75" data-crop="1" data-fixed="" /></a></div>
+				</div>
+			</div><div class="t-entry-text">
+							<div class="t-entry-text-tc half-block-padding"><div class="t-entry"><p class="t-entry-meta"><span class="t-entry-date">May 7, 2019</span></p><h6 class="t-entry-title h6 font-weight-500"><a href="https://anywhereweroam.com/pueblos-blancos-andalucia/" target="_self">A driving tour through the pueblos blancos (white villages) of Andalucía</a></h6><p class="t-entry-meta"><span class="t-entry-category t-entry-tax"><a class="bordered-cat tmb-term-evidence font-ui" href="https://anywhereweroam.com/category/articles/">Articles</a></span><span class="t-entry-category t-entry-tax"><a class="bordered-cat tmb-term-evidence font-ui" href="https://anywhereweroam.com/category/spain/">Spain</a></span></p></div></div>
+					</div></div>
+					</div>		</div>
+
+		</div>
+		</div>
+<div class="uncode_text_column" ><p style="font-size: 13px;"><strong><span class="font-762333">ALL ARTICLES / <a href="https://anywhereweroam.com/blog/">BLOG</a></span></strong></p>
+</div></div></div></div></div></div><script id="script-347306" data-row="script-347306" type="text/javascript">if ( typeof UNCODE !== "undefined" ) { UNCODE.initRow(document.getElementById("script-347306")); }</script></div></div></div><div data-parent="true" class="vc_row row-container"><div class="row-background background-element">
+											<div class="background-wrapper">
+												<div class="background-inner adaptive-async" style="background-image: url(https://anywhereweroam.com/wp-content/uploads/2018/07/FA4A2673-Edit-uai-250x167.jpg);background-repeat: no-repeat;background-position: center center;background-attachment: fixed;background-size: cover;" data-uniqueid="80150-768135" data-guid="https://anywhereweroam.com/wp-content/uploads/2018/07/FA4A2673-Edit.jpg" data-path="2018/07/FA4A2673-Edit.jpg" data-width="1024" data-height="683" data-singlew="12" data-singleh="null" data-crop=""></div>
+												<div class="block-bg-overlay style-color-jevc-bg" style="opacity: 0.15;"></div>
+											</div>
+										</div><div class="row col-half-gutter triple-top-padding no-bottom-padding single-h-padding full-width row-parent" data-minheight="620"><div class="row-inner"><div class="pos-middle pos-center align_center column_parent col-lg-12 half-internal-gutter"><div class="uncol style-dark"  ><div class="uncoltable"><div class="uncell no-block-padding"><div class="uncont"><div class="heading-text el-text" ><h6 class="h6 fontspace-210350 font-weight-500 text-uppercase" ><span>ancient history &amp; youthful exuberance</span></h6></div><div class="clear"></div><span class="btn-container" ><a href="https://anywhereweroam.com/places/turkey/" class="custom-link btn border-width-0 btn-default btn-outline btn-icon-left btn-ripple-out btn-border-animated">EXPLORE TURKEY</a></span></div></div></div></div></div><script id="script-143674" data-row="script-143674" type="text/javascript">if ( typeof UNCODE !== "undefined" ) { UNCODE.initRow(document.getElementById("script-143674")); }</script></div></div></div><div data-parent="true" class="vc_row row-container"><div class="row col-half-gutter double-top-padding double-bottom-padding single-h-padding limit-width row-parent"><div class="row-inner"><div class="pos-middle pos-left align_center column_parent col-lg-6 single-internal-gutter"><div class="uncol style-light"  ><div class="uncoltable"><div class="uncell single-block-padding style-color-xsdn-bg"><div class="uncont"><div class="heading-text el-text" ><h2 class="h6 fontspace-118626 font-weight-500 text-color-prif-color" ><span>READING</span></h2><hr class="separator-break separator-accent" /></div><div class="clear"></div><div class="uncode_text_column" ><p style="line-height: 1.4em; font-size: 14px;">We are drawn to places with an interesting story to tell. Where power, politics and beliefs have created a distinct and unusual vibe. Cultures we don’t find at home; cultures that provoke us to think about the lives of others. Find some reading on our ROAM page.</p>
+</div><span class="btn-container" ><a href="https://anywhereweroam.com/roam/" class="custom-link btn btn-sm border-width-0 btn-default btn-icon-left btn-ripple-out btn-border-animated">ROAM</a></span></div></div></div></div></div><div class="pos-middle pos-center align_center column_parent col-lg-6 single-internal-gutter"><div class="uncol style-light"  ><div class="uncoltable"><div class="uncell one-block-padding"><div class="uncont"><div id="index-2" class="isotope-system isotope-general-light">
+									<div class="isotope-wrapper no-gutter">
+			<div class="isotope-container isotope-layout style-metro isotope-pagination" data-type="metro" data-layout="fitRows" data-lg="800" data-md="700" data-sm="480" data-vp-height="">
+		<div class="tmb tmb-iso-w4 tmb-iso-h3 tmb-light tmb-text-showed tmb-overlay-anim tmb-overlay-bottom tmb-overlay-text-right tmb-overlay-text-mobile-center tmb-text-space-reduced tmb-entry-title-uppercase  tmb-no-double-tap tmb-id-79427 tmb-media-first tmb-media-last tmb-content-overlay">
+						<div class="t-inside style-color-xsdn-bg" ><div class="t-entry-visual"><div class="t-entry-visual-tc"><div class="t-entry-visual-cont"><a tabindex="-1" href="https://anywhereweroam.com/roam/thought-provoking/" target="_self" data-lb-index="0"><div class="t-entry-visual-overlay"><div class="t-entry-visual-overlay-in style-color-jevc-bg" style="opacity: 0.25;"></div></div>
+									<div class="t-overlay-wrap">
+										<div class="t-overlay-inner">
+											<div class="t-overlay-content">
+												<div class="t-overlay-text half-block-padding"><div class="t-entry"><h4 class="t-entry-title h5 font-weight-600">Thought Provoking</h4></div></div></div></div></div><div class="t-background-cover adaptive-async" style="background-image:url('https://anywhereweroam.com/wp-content/uploads/2018/12/anywhere-we-roam-thought-provoking-uai-250x187.jpg')" data-uniqueid="85175-204776" data-guid="https://anywhereweroam.com/wp-content/uploads/2018/12/anywhere-we-roam-thought-provoking.jpg" data-path="2018/12/anywhere-we-roam-thought-provoking.jpg" data-width="1024" data-height="683" data-singlew="4" data-singleh="3" data-crop="1" data-fixed=""></div></a></div>
+				</div>
+			</div></div>
+					</div><div class="tmb tmb-iso-w4 tmb-iso-h3 tmb-light tmb-text-showed tmb-overlay-anim tmb-overlay-bottom tmb-overlay-text-right tmb-overlay-text-mobile-center tmb-text-space-reduced tmb-entry-title-uppercase  tmb-no-double-tap tmb-id-76957 tmb-media-first tmb-media-last tmb-content-overlay">
+						<div class="t-inside style-color-xsdn-bg" ><div class="t-entry-visual"><div class="t-entry-visual-tc"><div class="t-entry-visual-cont"><a tabindex="-1" href="https://anywhereweroam.com/roam/wildlife-encounters/" target="_self" data-lb-index="1"><div class="t-entry-visual-overlay"><div class="t-entry-visual-overlay-in style-color-jevc-bg" style="opacity: 0.25;"></div></div>
+									<div class="t-overlay-wrap">
+										<div class="t-overlay-inner">
+											<div class="t-overlay-content">
+												<div class="t-overlay-text half-block-padding"><div class="t-entry"><h4 class="t-entry-title h5 font-weight-600">Wildlife Encounters</h4></div></div></div></div></div><div class="t-background-cover adaptive-async" style="background-image:url('https://anywhereweroam.com/wp-content/uploads/2017/09/20161103-FA4A4549-Edit-uai-250x187.jpg')" data-uniqueid="70998-858577" data-guid="https://anywhereweroam.com/wp-content/uploads/2017/09/20161103-FA4A4549-Edit.jpg" data-path="2017/09/20161103-FA4A4549-Edit.jpg" data-width="1024" data-height="683" data-singlew="4" data-singleh="3" data-crop="1" data-fixed=""></div></a></div>
+				</div>
+			</div></div>
+					</div><div class="tmb tmb-iso-w4 tmb-iso-h3 tmb-light tmb-text-showed tmb-overlay-anim tmb-overlay-bottom tmb-overlay-text-right tmb-overlay-text-mobile-center tmb-text-space-reduced tmb-entry-title-uppercase  tmb-no-double-tap tmb-id-76798 tmb-media-first tmb-media-last tmb-content-overlay">
+						<div class="t-inside style-color-xsdn-bg" ><div class="t-entry-visual"><div class="t-entry-visual-tc"><div class="t-entry-visual-cont"><a tabindex="-1" href="https://anywhereweroam.com/roam/history/" target="_self" data-lb-index="2"><div class="t-entry-visual-overlay"><div class="t-entry-visual-overlay-in style-color-jevc-bg" style="opacity: 0.25;"></div></div>
+									<div class="t-overlay-wrap">
+										<div class="t-overlay-inner">
+											<div class="t-overlay-content">
+												<div class="t-overlay-text half-block-padding"><div class="t-entry"><h4 class="t-entry-title h5 font-weight-600">History</h4></div></div></div></div></div><div class="t-background-cover adaptive-async" style="background-image:url('https://anywhereweroam.com/wp-content/uploads/2018/03/FA4A0077-Edit-uai-250x187.jpg')" data-uniqueid="77439-388349" data-guid="https://anywhereweroam.com/wp-content/uploads/2018/03/FA4A0077-Edit.jpg" data-path="2018/03/FA4A0077-Edit.jpg" data-width="1024" data-height="683" data-singlew="4" data-singleh="3" data-crop="1" data-fixed=""></div></a></div>
+				</div>
+			</div></div>
+					</div><div class="tmb tmb-iso-w4 tmb-iso-h3 tmb-light tmb-text-showed tmb-overlay-anim tmb-overlay-bottom tmb-overlay-text-right tmb-overlay-text-mobile-center tmb-text-space-reduced tmb-entry-title-uppercase  tmb-no-double-tap tmb-id-76808 tmb-media-first tmb-media-last tmb-content-overlay">
+						<div class="t-inside style-color-xsdn-bg" ><div class="t-entry-visual"><div class="t-entry-visual-tc"><div class="t-entry-visual-cont"><a tabindex="-1" href="https://anywhereweroam.com/roam/on-the-trail/" target="_self" data-lb-index="3"><div class="t-entry-visual-overlay"><div class="t-entry-visual-overlay-in style-color-jevc-bg" style="opacity: 0.25;"></div></div>
+									<div class="t-overlay-wrap">
+										<div class="t-overlay-inner">
+											<div class="t-overlay-content">
+												<div class="t-overlay-text half-block-padding"><div class="t-entry"><h4 class="t-entry-title h5 font-weight-600">On The Trail</h4></div></div></div></div></div><div class="t-background-cover adaptive-async" style="background-image:url('https://anywhereweroam.com/wp-content/uploads/2018/10/Paul-Sossusvlei-uai-250x187.jpg')" data-uniqueid="82321-773139" data-guid="https://anywhereweroam.com/wp-content/uploads/2018/10/Paul-Sossusvlei.jpg" data-path="2018/10/Paul-Sossusvlei.jpg" data-width="1024" data-height="683" data-singlew="4" data-singleh="3" data-crop="1" data-fixed=""></div></a></div>
+				</div>
+			</div></div>
+					</div>		</div>
+
+		</div>
+		</div>
+</div></div></div></div></div><script id="script-167519" data-row="script-167519" type="text/javascript">if ( typeof UNCODE !== "undefined" ) { UNCODE.initRow(document.getElementById("script-167519")); }</script></div></div></div><div data-parent="true" class="vc_row style-color-lxmt-bg row-container"><div class="row triple-top-padding one-bottom-padding single-h-padding limit-width row-parent" data-minheight="300"><div class="row-inner"><div class="pos-middle pos-center align_center column_parent col-lg-12 single-internal-gutter"><div class="uncol style-light"  ><div class="uncoltable"><div class="uncell"><div class="uncont one-block-padding col-custom-width" style="max-width:804px;"><div class="heading-text el-text" ><h2 class="h6 fontspace-210350 font-weight-500 text-color-prif-color" ><span>OUR TRAVEL ITINERARIES</span></h2><hr class="separator-break separator-accent" /></div><div class="clear"></div><div class="uncode_text_column" ><p style="line-height: 1.4em; color: #152222; text-align: left; font-size: 14px; font-family: montserrat;">Our unique travel itineraries are carefully crafted to show the best a destination has to offer. They have been developed for independent travelers who want to pack as much as possible in to their precious travel time. Each one has been road tested by us, with love, care, and OCD. Let Anywhere We Roam take your planning strain.</p>
+</div></div></div></div></div></div><script id="script-117646" data-row="script-117646" type="text/javascript">if ( typeof UNCODE !== "undefined" ) { UNCODE.initRow(document.getElementById("script-117646")); }</script></div></div></div><div data-parent="true" class="vc_row fullWidth style-color-lxmt-bg row-container mobile-hidden"><div class="row one-top-padding single-bottom-padding one-h-padding limit-width row-parent" data-minheight="600"><div class="row-inner"><div class="pos-top pos-center align_center column_parent col-lg-12 single-internal-gutter"><div class="uncol style-light"  ><div class="uncoltable"><div class="uncell"><div class="uncont single-block-padding col-custom-width style-color-xsdn-bg" style="max-width:1200px;"><div id="index-148202" class="isotope-system isotope-general-light mobilesize">
+									<div class="isotope-wrapper half-gutter">
+			<div class="isotope-container isotope-layout style-masonry isotope-pagination" data-type="masonry" data-layout="fitRows" data-lg="1000" data-md="600" data-sm="480" data-vp-height="">
+		<div class="tmb tmb-iso-w4 tmb-iso-h4 tmb-light tmb-overlay-text-anim tmb-overlay-anim tmb-content-left tmb-entry-title-uppercase  grid-cat-110 grid-cat-4068 tmb-id-83838 tmb-content-under tmb-media-first tmb-no-bg">
+						<div class="t-inside" ><div class="t-entry-visual"><div class="t-entry-visual-tc"><div class="t-entry-visual-cont"><div class="dummy" style="padding-top: 66.8%;"></div><a tabindex="-1" href="https://anywhereweroam.com/10-day-iceland-itinerary/" class="pushed" target="_self" data-lb-index="0"><div class="t-entry-visual-overlay"><div class="t-entry-visual-overlay-in style-color-wvjs-bg" style="opacity: 0.3;"></div></div>
+									<div class="t-overlay-wrap">
+										<div class="t-overlay-inner">
+											<div class="t-overlay-content">
+												<div class="t-overlay-text half-block-padding"><div class="t-entry t-single-line"><i class="fa fa-arrow-right t-icon-size-md t-overlay-icon"></i></div></div></div></div></div><img class="adaptive-async" src="https://anywhereweroam.com/wp-content/uploads/2018/11/10-day-iceland-itinerary-21-uai-250x167.jpg" width="250" height="167" alt="10 day iceland itinerary" data-uniqueid="83840-193826" data-guid="https://anywhereweroam.com/wp-content/uploads/2018/11/10-day-iceland-itinerary-21.jpg" data-path="2018/11/10-day-iceland-itinerary-21.jpg" data-width="1024" data-height="683" data-singlew="4" data-singleh="4" data-crop="" data-fixed="" /></a></div>
+				</div>
+			</div><div class="t-entry-text">
+							<div class="t-entry-text-tc half-block-padding"><div class="t-entry"><h6 class="t-entry-title h6 font-weight-500"><a href="https://anywhereweroam.com/10-day-iceland-itinerary/" target="_self">10-day Iceland Itinerary &#8211; Summer on the Ring Road and Highlands</a></h6><div class="t-entry-excerpt"><p>Our 10-day Iceland Itinerary uncovers what makes Iceland unique; exploring the Ring Road with semi-adventurous day trips into the Highlands.</p>
+</div><p class="t-entry-meta"><span class="t-entry-category t-entry-tax"><i class="fa fa-archive2 fa-push-right"></i><a href="https://anywhereweroam.com/category/itineraries/">Itineraries</a><span class="cat-comma">,</span></span><span class="t-entry-category t-entry-tax"><a class="" href="https://anywhereweroam.com/category/iceland/">Iceland</a></span></p><div class="spacer spacer-one half-space"></div></div></div>
+					</div></div>
+					</div><div class="tmb tmb-iso-w4 tmb-iso-h4 tmb-light tmb-overlay-text-anim tmb-overlay-anim tmb-content-left tmb-entry-title-uppercase  grid-cat-110 grid-cat-135 tmb-id-82468 tmb-content-under tmb-media-first tmb-no-bg">
+						<div class="t-inside" ><div class="t-entry-visual"><div class="t-entry-visual-tc"><div class="t-entry-visual-cont"><div class="dummy" style="padding-top: 66.8%;"></div><a tabindex="-1" href="https://anywhereweroam.com/3-week-south-africa-itinerary/" class="pushed" target="_self" data-lb-index="1"><div class="t-entry-visual-overlay"><div class="t-entry-visual-overlay-in style-color-wvjs-bg" style="opacity: 0.3;"></div></div>
+									<div class="t-overlay-wrap">
+										<div class="t-overlay-inner">
+											<div class="t-overlay-content">
+												<div class="t-overlay-text half-block-padding"><div class="t-entry t-single-line"><i class="fa fa-arrow-right t-icon-size-md t-overlay-icon"></i></div></div></div></div></div><img class="adaptive-async" src="https://anywhereweroam.com/wp-content/uploads/2018/10/3-week-south-africa-itinerary-39-uai-250x167.jpg" width="250" height="167" alt="3 week south africa itinerary" data-uniqueid="82469-209107" data-guid="https://anywhereweroam.com/wp-content/uploads/2018/10/3-week-south-africa-itinerary-39.jpg" data-path="2018/10/3-week-south-africa-itinerary-39.jpg" data-width="1024" data-height="683" data-singlew="4" data-singleh="4" data-crop="" data-fixed="" /></a></div>
+				</div>
+			</div><div class="t-entry-text">
+							<div class="t-entry-text-tc half-block-padding"><div class="t-entry"><h6 class="t-entry-title h6 font-weight-500"><a href="https://anywhereweroam.com/3-week-south-africa-itinerary/" target="_self">3-week South Africa itinerary – Cape Town to Kruger</a></h6><div class="t-entry-excerpt"><p>Sip great wines, spot the big 5, hike the coastal paths and uncover the story of apartheid on our magnificent 3-week South Africa itinerary.</p>
+</div><p class="t-entry-meta"><span class="t-entry-category t-entry-tax"><i class="fa fa-archive2 fa-push-right"></i><a href="https://anywhereweroam.com/category/itineraries/">Itineraries</a><span class="cat-comma">,</span></span><span class="t-entry-category t-entry-tax"><a href="https://anywhereweroam.com/category/south-africa/">South Africa</a></span></p><div class="spacer spacer-one half-space"></div></div></div>
+					</div></div>
+					</div><div class="tmb tmb-iso-w4 tmb-iso-h4 tmb-light tmb-overlay-text-anim tmb-overlay-anim tmb-content-left tmb-entry-title-uppercase  grid-cat-110 grid-cat-3168 tmb-id-81180 tmb-content-under tmb-media-first tmb-no-bg">
+						<div class="t-inside" ><div class="t-entry-visual"><div class="t-entry-visual-tc"><div class="t-entry-visual-cont"><div class="dummy" style="padding-top: 66.8%;"></div><a tabindex="-1" href="https://anywhereweroam.com/2-week-turkey-itinerary/" class="pushed" target="_self" data-lb-index="2"><div class="t-entry-visual-overlay"><div class="t-entry-visual-overlay-in style-color-wvjs-bg" style="opacity: 0.3;"></div></div>
+									<div class="t-overlay-wrap">
+										<div class="t-overlay-inner">
+											<div class="t-overlay-content">
+												<div class="t-overlay-text half-block-padding"><div class="t-entry t-single-line"><i class="fa fa-arrow-right t-icon-size-md t-overlay-icon"></i></div></div></div></div></div><img class="adaptive-async" src="https://anywhereweroam.com/wp-content/uploads/2018/08/2-week-turkey-itinerary-21-uai-250x167.jpg" width="250" height="167" alt="Pamukkale 2-week turkey itinerary" data-uniqueid="81182-175606" data-guid="https://anywhereweroam.com/wp-content/uploads/2018/08/2-week-turkey-itinerary-21.jpg" data-path="2018/08/2-week-turkey-itinerary-21.jpg" data-width="1024" data-height="683" data-singlew="4" data-singleh="4" data-crop="" data-fixed="" /></a></div>
+				</div>
+			</div><div class="t-entry-text">
+							<div class="t-entry-text-tc half-block-padding"><div class="t-entry"><h6 class="t-entry-title h6 font-weight-500"><a href="https://anywhereweroam.com/2-week-turkey-itinerary/" target="_self">2-week Turkey itinerary &#8211; Ruins, Cappadocia &#038; Istanbul</a></h6><div class="t-entry-excerpt"><p>We spent a month exploring Turkey, collecting the sights and drinking lots of tea. Here's our perfect 2-week Turkey itinerary, capturing the best highlights of this remarkable place.</p>
+</div><p class="t-entry-meta"><span class="t-entry-category t-entry-tax"><i class="fa fa-archive2 fa-push-right"></i><a href="https://anywhereweroam.com/category/itineraries/">Itineraries</a><span class="cat-comma">,</span></span><span class="t-entry-category t-entry-tax"><a class="" href="https://anywhereweroam.com/category/turkey/">Turkey</a></span></p><div class="spacer spacer-one half-space"></div></div></div>
+					</div></div>
+					</div><div class="tmb tmb-iso-w4 tmb-iso-h4 tmb-light tmb-overlay-text-anim tmb-overlay-anim tmb-content-left tmb-entry-title-uppercase  grid-cat-110 grid-cat-3168 tmb-id-80579 tmb-content-under tmb-media-first tmb-no-bg">
+						<div class="t-inside" ><div class="t-entry-visual"><div class="t-entry-visual-tc"><div class="t-entry-visual-cont"><div class="dummy" style="padding-top: 66.8%;"></div><a tabindex="-1" href="https://anywhereweroam.com/5-day-istanbul-itinerary/" class="pushed" target="_self" data-lb-index="3"><div class="t-entry-visual-overlay"><div class="t-entry-visual-overlay-in style-color-wvjs-bg" style="opacity: 0.3;"></div></div>
+									<div class="t-overlay-wrap">
+										<div class="t-overlay-inner">
+											<div class="t-overlay-content">
+												<div class="t-overlay-text half-block-padding"><div class="t-entry t-single-line"><i class="fa fa-arrow-right t-icon-size-md t-overlay-icon"></i></div></div></div></div></div><img class="adaptive-async" src="https://anywhereweroam.com/wp-content/uploads/2018/07/5-day-istanbul-itinerary-uai-250x167.jpg" width="250" height="167" alt="5 day istanbul itinerary" data-uniqueid="80586-531435" data-guid="https://anywhereweroam.com/wp-content/uploads/2018/07/5-day-istanbul-itinerary.jpg" data-path="2018/07/5-day-istanbul-itinerary.jpg" data-width="1024" data-height="683" data-singlew="4" data-singleh="4" data-crop="" data-fixed="" /></a></div>
+				</div>
+			</div><div class="t-entry-text">
+							<div class="t-entry-text-tc half-block-padding"><div class="t-entry"><h6 class="t-entry-title h6 font-weight-500"><a href="https://anywhereweroam.com/5-day-istanbul-itinerary/" target="_self">5-day Istanbul itinerary &#8211; Our perfect city break</a></h6><div class="t-entry-excerpt"><p>We think Istanbul is the best city destination in the world. But with so much to do, here’s our recommendation for how to fit it all in.</p>
+</div><p class="t-entry-meta"><span class="t-entry-category t-entry-tax"><i class="fa fa-archive2 fa-push-right"></i><a href="https://anywhereweroam.com/category/itineraries/">Itineraries</a><span class="cat-comma">,</span></span><span class="t-entry-category t-entry-tax"><a class="" href="https://anywhereweroam.com/category/turkey/">Turkey</a></span></p><div class="spacer spacer-one half-space"></div></div></div>
+					</div></div>
+					</div><div class="tmb tmb-iso-w4 tmb-iso-h4 tmb-light tmb-overlay-text-anim tmb-overlay-anim tmb-content-left tmb-entry-title-uppercase  grid-cat-110 grid-cat-2703 tmb-id-78877 tmb-content-under tmb-media-first tmb-no-bg">
+						<div class="t-inside" ><div class="t-entry-visual"><div class="t-entry-visual-tc"><div class="t-entry-visual-cont"><div class="dummy" style="padding-top: 66.8%;"></div><a tabindex="-1" href="https://anywhereweroam.com/2-days-in-cordoba/" class="pushed" target="_self" data-lb-index="4"><div class="t-entry-visual-overlay"><div class="t-entry-visual-overlay-in style-color-wvjs-bg" style="opacity: 0.3;"></div></div>
+									<div class="t-overlay-wrap">
+										<div class="t-overlay-inner">
+											<div class="t-overlay-content">
+												<div class="t-overlay-text half-block-padding"><div class="t-entry t-single-line"><i class="fa fa-arrow-right t-icon-size-md t-overlay-icon"></i></div></div></div></div></div><img class="adaptive-async" src="https://anywhereweroam.com/wp-content/uploads/2018/05/FA4A1200-uai-250x167.jpg" width="250" height="167" alt="free things to do in Córdoba" data-uniqueid="78718-118861" data-guid="https://anywhereweroam.com/wp-content/uploads/2018/05/FA4A1200.jpg" data-path="2018/05/FA4A1200.jpg" data-width="1024" data-height="683" data-singlew="4" data-singleh="4" data-crop="" data-fixed="" /></a></div>
+				</div>
+			</div><div class="t-entry-text">
+							<div class="t-entry-text-tc half-block-padding"><div class="t-entry"><h6 class="t-entry-title h6 font-weight-500"><a href="https://anywhereweroam.com/2-days-in-cordoba/" target="_self">2 days in Córdoba – Our complete itinerary</a></h6><div class="t-entry-excerpt"><p>Our run down of how to spend 2 days in Córdoba collecting all the historical sights, exploring the world-famous patios and dining on cheap tasty tapas. </p>
+</div><p class="t-entry-meta"><span class="t-entry-category t-entry-tax"><i class="fa fa-archive2 fa-push-right"></i><a href="https://anywhereweroam.com/category/itineraries/">Itineraries</a><span class="cat-comma">,</span></span><span class="t-entry-category t-entry-tax"><a class="" href="https://anywhereweroam.com/category/spain/">Spain</a></span></p><div class="spacer spacer-one half-space"></div></div></div>
+					</div></div>
+					</div><div class="tmb tmb-iso-w4 tmb-iso-h4 tmb-light tmb-overlay-text-anim tmb-overlay-anim tmb-content-left tmb-entry-title-uppercase  grid-cat-110 grid-cat-850 tmb-id-74357 tmb-content-under tmb-media-first tmb-no-bg">
+						<div class="t-inside" ><div class="t-entry-visual"><div class="t-entry-visual-tc"><div class="t-entry-visual-cont"><div class="dummy" style="padding-top: 66.8%;"></div><a tabindex="-1" href="https://anywhereweroam.com/10-day-sri-lankan-itinerary/" class="pushed" target="_self" data-lb-index="5"><div class="t-entry-visual-overlay"><div class="t-entry-visual-overlay-in style-color-wvjs-bg" style="opacity: 0.3;"></div></div>
+									<div class="t-overlay-wrap">
+										<div class="t-overlay-inner">
+											<div class="t-overlay-content">
+												<div class="t-overlay-text half-block-padding"><div class="t-entry t-single-line"><i class="fa fa-arrow-right t-icon-size-md t-overlay-icon"></i></div></div></div></div></div><img class="adaptive-async" src="https://anywhereweroam.com/wp-content/uploads/2018/12/ancient-city-polonnaruwa-26-uai-250x167.jpg" width="250" height="167" alt="Historical Places in the ancient city of Polonnaruwa" data-uniqueid="84496-226046" data-guid="https://anywhereweroam.com/wp-content/uploads/2018/12/ancient-city-polonnaruwa-26.jpg" data-path="2018/12/ancient-city-polonnaruwa-26.jpg" data-width="1000" data-height="667" data-singlew="4" data-singleh="4" data-crop="" data-fixed="" /></a></div>
+				</div>
+			</div><div class="t-entry-text">
+							<div class="t-entry-text-tc half-block-padding"><div class="t-entry"><h6 class="t-entry-title h6 font-weight-500"><a href="https://anywhereweroam.com/10-day-sri-lankan-itinerary/" target="_self">10 days in Sri Lanka itinerary – Tea, temples and trains</a></h6><div class="t-entry-excerpt"><p>Our 10 days in Sri Lanka itinerary covering historic ruins, beautiful lush countryside, friendly culture, and idyllic, golden beaches.</p>
+</div><p class="t-entry-meta"><span class="t-entry-category t-entry-tax"><i class="fa fa-archive2 fa-push-right"></i><a href="https://anywhereweroam.com/category/itineraries/">Itineraries</a><span class="cat-comma">,</span></span><span class="t-entry-category t-entry-tax"><a class="" href="https://anywhereweroam.com/category/sri-lanka/">Sri Lanka</a></span></p><div class="spacer spacer-one half-space"></div></div></div>
+					</div></div>
+					</div>		</div>
+
+		</div>
+		</div>
+<div class="empty-space empty-quart"><span class="empty-space-inner"></span></div>
+<div class="uncode_text_column" ><p style="font-size: 13px;"><strong><span class="font-762333">ALL TRIPS /<a href="https://anywhereweroam.com/itineraries/"> ITINERARIES</a></span></strong></p>
+</div></div></div></div></div></div><script id="script-148277" data-row="script-148277" type="text/javascript">if ( typeof UNCODE !== "undefined" ) { UNCODE.initRow(document.getElementById("script-148277")); }</script></div></div></div><div data-parent="true" class="vc_row fullWidth style-color-lxmt-bg row-container desktop-hidden tablet-hidden"><div class="row one-top-padding single-bottom-padding one-h-padding limit-width row-parent" data-minheight="600"><div class="row-inner"><div class="pos-top pos-center align_center column_parent col-lg-12 single-internal-gutter"><div class="uncol style-light"  ><div class="uncoltable"><div class="uncell"><div class="uncont single-block-padding col-custom-width style-color-lxmt-bg" style="max-width:1200px;"><div id="index-148202" class="isotope-system isotope-general-light mobilesize">
+									<div class="isotope-wrapper half-gutter">
+			<div class="isotope-container isotope-layout style-masonry isotope-pagination" data-type="masonry" data-layout="fitRows" data-lg="1000" data-md="600" data-sm="480" data-vp-height="">
+		<div class="tmb tmb-iso-w4 tmb-iso-h4 tmb-light tmb-overlay-text-anim tmb-overlay-anim tmb-content-left  grid-cat-110 grid-cat-3168 tmb-id-81180 tmb-content-under tmb-media-first tmb-no-bg">
+						<div class="t-inside" ><div class="t-entry-visual"><div class="t-entry-visual-tc"><div class="t-entry-visual-cont"><div class="dummy" style="padding-top: 66.8%;"></div><a tabindex="-1" href="https://anywhereweroam.com/2-week-turkey-itinerary/" class="pushed" target="_self" data-lb-index="0"><div class="t-entry-visual-overlay"><div class="t-entry-visual-overlay-in style-color-wvjs-bg" style="opacity: 0.3;"></div></div>
+									<div class="t-overlay-wrap">
+										<div class="t-overlay-inner">
+											<div class="t-overlay-content">
+												<div class="t-overlay-text half-block-padding"><div class="t-entry t-single-line"><i class="fa fa-arrow-right t-icon-size-md t-overlay-icon"></i></div></div></div></div></div><img class="adaptive-async" src="https://anywhereweroam.com/wp-content/uploads/2018/08/2-week-turkey-itinerary-21-uai-250x167.jpg" width="250" height="167" alt="Pamukkale 2-week turkey itinerary" data-uniqueid="81182-128578" data-guid="https://anywhereweroam.com/wp-content/uploads/2018/08/2-week-turkey-itinerary-21.jpg" data-path="2018/08/2-week-turkey-itinerary-21.jpg" data-width="1024" data-height="683" data-singlew="4" data-singleh="4" data-crop="" data-fixed="" /></a></div>
+				</div>
+			</div><div class="t-entry-text">
+							<div class="t-entry-text-tc half-block-padding"><div class="t-entry"><h6 class="t-entry-title font-134857 fontsize-212006 font-weight-600"><a href="https://anywhereweroam.com/2-week-turkey-itinerary/" target="_self">2-week Turkey itinerary &#8211; Ruins, Cappadocia &#038; Istanbul</a></h6><div class="t-entry-excerpt"><p>We spent a month exploring Turkey, collecting the sights and drinking lots of tea. Here's our perfect 2-week Turkey itinerary, capturing the best highlights of this remarkable place.</p>
+</div><p class="t-entry-meta"><span class="t-entry-category t-entry-tax"><i class="fa fa-archive2 fa-push-right"></i><a href="https://anywhereweroam.com/category/itineraries/">Itineraries</a><span class="cat-comma">,</span></span><span class="t-entry-category t-entry-tax"><a class="" href="https://anywhereweroam.com/category/turkey/">Turkey</a></span></p><hr /><div class="spacer spacer-one half-space"></div></div></div>
+					</div></div>
+					</div><div class="tmb tmb-iso-w4 tmb-iso-h4 tmb-light tmb-overlay-text-anim tmb-overlay-anim tmb-content-left  grid-cat-110 grid-cat-4068 tmb-id-83838 tmb-content-under tmb-media-first tmb-no-bg">
+						<div class="t-inside" ><div class="t-entry-visual"><div class="t-entry-visual-tc"><div class="t-entry-visual-cont"><div class="dummy" style="padding-top: 66.8%;"></div><a tabindex="-1" href="https://anywhereweroam.com/10-day-iceland-itinerary/" class="pushed" target="_self" data-lb-index="1"><div class="t-entry-visual-overlay"><div class="t-entry-visual-overlay-in style-color-wvjs-bg" style="opacity: 0.3;"></div></div>
+									<div class="t-overlay-wrap">
+										<div class="t-overlay-inner">
+											<div class="t-overlay-content">
+												<div class="t-overlay-text half-block-padding"><div class="t-entry t-single-line"><i class="fa fa-arrow-right t-icon-size-md t-overlay-icon"></i></div></div></div></div></div><img class="adaptive-async" src="https://anywhereweroam.com/wp-content/uploads/2018/11/10-day-iceland-itinerary-21-uai-250x167.jpg" width="250" height="167" alt="10 day iceland itinerary" data-uniqueid="83840-138896" data-guid="https://anywhereweroam.com/wp-content/uploads/2018/11/10-day-iceland-itinerary-21.jpg" data-path="2018/11/10-day-iceland-itinerary-21.jpg" data-width="1024" data-height="683" data-singlew="4" data-singleh="4" data-crop="" data-fixed="" /></a></div>
+				</div>
+			</div><div class="t-entry-text">
+							<div class="t-entry-text-tc half-block-padding"><div class="t-entry"><h6 class="t-entry-title font-134857 fontsize-212006 font-weight-600"><a href="https://anywhereweroam.com/10-day-iceland-itinerary/" target="_self">10-day Iceland Itinerary &#8211; Summer on the Ring Road and Highlands</a></h6><div class="t-entry-excerpt"><p>Our 10-day Iceland Itinerary uncovers what makes Iceland unique; exploring the Ring Road with semi-adventurous day trips into the Highlands.</p>
+</div><p class="t-entry-meta"><span class="t-entry-category t-entry-tax"><i class="fa fa-archive2 fa-push-right"></i><a href="https://anywhereweroam.com/category/itineraries/">Itineraries</a><span class="cat-comma">,</span></span><span class="t-entry-category t-entry-tax"><a class="" href="https://anywhereweroam.com/category/iceland/">Iceland</a></span></p><hr /><div class="spacer spacer-one half-space"></div></div></div>
+					</div></div>
+					</div><div class="tmb tmb-iso-w4 tmb-iso-h4 tmb-light tmb-overlay-text-anim tmb-overlay-anim tmb-content-left  grid-cat-110 grid-cat-135 tmb-id-82468 tmb-content-under tmb-media-first tmb-no-bg">
+						<div class="t-inside" ><div class="t-entry-visual"><div class="t-entry-visual-tc"><div class="t-entry-visual-cont"><div class="dummy" style="padding-top: 66.8%;"></div><a tabindex="-1" href="https://anywhereweroam.com/3-week-south-africa-itinerary/" class="pushed" target="_self" data-lb-index="2"><div class="t-entry-visual-overlay"><div class="t-entry-visual-overlay-in style-color-wvjs-bg" style="opacity: 0.3;"></div></div>
+									<div class="t-overlay-wrap">
+										<div class="t-overlay-inner">
+											<div class="t-overlay-content">
+												<div class="t-overlay-text half-block-padding"><div class="t-entry t-single-line"><i class="fa fa-arrow-right t-icon-size-md t-overlay-icon"></i></div></div></div></div></div><img class="adaptive-async" src="https://anywhereweroam.com/wp-content/uploads/2018/10/3-week-south-africa-itinerary-39-uai-250x167.jpg" width="250" height="167" alt="3 week south africa itinerary" data-uniqueid="82469-952689" data-guid="https://anywhereweroam.com/wp-content/uploads/2018/10/3-week-south-africa-itinerary-39.jpg" data-path="2018/10/3-week-south-africa-itinerary-39.jpg" data-width="1024" data-height="683" data-singlew="4" data-singleh="4" data-crop="" data-fixed="" /></a></div>
+				</div>
+			</div><div class="t-entry-text">
+							<div class="t-entry-text-tc half-block-padding"><div class="t-entry"><h6 class="t-entry-title font-134857 fontsize-212006 font-weight-600"><a href="https://anywhereweroam.com/3-week-south-africa-itinerary/" target="_self">3-week South Africa itinerary – Cape Town to Kruger</a></h6><div class="t-entry-excerpt"><p>Sip great wines, spot the big 5, hike the coastal paths and uncover the story of apartheid on our magnificent 3-week South Africa itinerary.</p>
+</div><p class="t-entry-meta"><span class="t-entry-category t-entry-tax"><i class="fa fa-archive2 fa-push-right"></i><a href="https://anywhereweroam.com/category/itineraries/">Itineraries</a><span class="cat-comma">,</span></span><span class="t-entry-category t-entry-tax"><a href="https://anywhereweroam.com/category/south-africa/">South Africa</a></span></p><hr /><div class="spacer spacer-one half-space"></div></div></div>
+					</div></div>
+					</div><div class="tmb tmb-iso-w4 tmb-iso-h4 tmb-light tmb-overlay-text-anim tmb-overlay-anim tmb-content-left  grid-cat-110 grid-cat-2703 tmb-id-78877 tmb-content-under tmb-media-first tmb-no-bg">
+						<div class="t-inside" ><div class="t-entry-visual"><div class="t-entry-visual-tc"><div class="t-entry-visual-cont"><div class="dummy" style="padding-top: 66.8%;"></div><a tabindex="-1" href="https://anywhereweroam.com/2-days-in-cordoba/" class="pushed" target="_self" data-lb-index="3"><div class="t-entry-visual-overlay"><div class="t-entry-visual-overlay-in style-color-wvjs-bg" style="opacity: 0.3;"></div></div>
+									<div class="t-overlay-wrap">
+										<div class="t-overlay-inner">
+											<div class="t-overlay-content">
+												<div class="t-overlay-text half-block-padding"><div class="t-entry t-single-line"><i class="fa fa-arrow-right t-icon-size-md t-overlay-icon"></i></div></div></div></div></div><img class="adaptive-async" src="https://anywhereweroam.com/wp-content/uploads/2018/05/FA4A1200-uai-250x167.jpg" width="250" height="167" alt="free things to do in Córdoba" data-uniqueid="78718-114990" data-guid="https://anywhereweroam.com/wp-content/uploads/2018/05/FA4A1200.jpg" data-path="2018/05/FA4A1200.jpg" data-width="1024" data-height="683" data-singlew="4" data-singleh="4" data-crop="" data-fixed="" /></a></div>
+				</div>
+			</div><div class="t-entry-text">
+							<div class="t-entry-text-tc half-block-padding"><div class="t-entry"><h6 class="t-entry-title font-134857 fontsize-212006 font-weight-600"><a href="https://anywhereweroam.com/2-days-in-cordoba/" target="_self">2 days in Córdoba – Our complete itinerary</a></h6><div class="t-entry-excerpt"><p>Our run down of how to spend 2 days in Córdoba collecting all the historical sights, exploring the world-famous patios and dining on cheap tasty tapas. </p>
+</div><p class="t-entry-meta"><span class="t-entry-category t-entry-tax"><i class="fa fa-archive2 fa-push-right"></i><a href="https://anywhereweroam.com/category/itineraries/">Itineraries</a><span class="cat-comma">,</span></span><span class="t-entry-category t-entry-tax"><a class="" href="https://anywhereweroam.com/category/spain/">Spain</a></span></p><hr /><div class="spacer spacer-one half-space"></div></div></div>
+					</div></div>
+					</div><div class="tmb tmb-iso-w4 tmb-iso-h4 tmb-light tmb-overlay-text-anim tmb-overlay-anim tmb-content-left  grid-cat-110 grid-cat-3168 tmb-id-80579 tmb-content-under tmb-media-first tmb-no-bg">
+						<div class="t-inside" ><div class="t-entry-visual"><div class="t-entry-visual-tc"><div class="t-entry-visual-cont"><div class="dummy" style="padding-top: 66.8%;"></div><a tabindex="-1" href="https://anywhereweroam.com/5-day-istanbul-itinerary/" class="pushed" target="_self" data-lb-index="4"><div class="t-entry-visual-overlay"><div class="t-entry-visual-overlay-in style-color-wvjs-bg" style="opacity: 0.3;"></div></div>
+									<div class="t-overlay-wrap">
+										<div class="t-overlay-inner">
+											<div class="t-overlay-content">
+												<div class="t-overlay-text half-block-padding"><div class="t-entry t-single-line"><i class="fa fa-arrow-right t-icon-size-md t-overlay-icon"></i></div></div></div></div></div><img class="adaptive-async" src="https://anywhereweroam.com/wp-content/uploads/2018/07/5-day-istanbul-itinerary-uai-250x167.jpg" width="250" height="167" alt="5 day istanbul itinerary" data-uniqueid="80586-152862" data-guid="https://anywhereweroam.com/wp-content/uploads/2018/07/5-day-istanbul-itinerary.jpg" data-path="2018/07/5-day-istanbul-itinerary.jpg" data-width="1024" data-height="683" data-singlew="4" data-singleh="4" data-crop="" data-fixed="" /></a></div>
+				</div>
+			</div><div class="t-entry-text">
+							<div class="t-entry-text-tc half-block-padding"><div class="t-entry"><h6 class="t-entry-title font-134857 fontsize-212006 font-weight-600"><a href="https://anywhereweroam.com/5-day-istanbul-itinerary/" target="_self">5-day Istanbul itinerary &#8211; Our perfect city break</a></h6><div class="t-entry-excerpt"><p>We think Istanbul is the best city destination in the world. But with so much to do, here’s our recommendation for how to fit it all in.</p>
+</div><p class="t-entry-meta"><span class="t-entry-category t-entry-tax"><i class="fa fa-archive2 fa-push-right"></i><a href="https://anywhereweroam.com/category/itineraries/">Itineraries</a><span class="cat-comma">,</span></span><span class="t-entry-category t-entry-tax"><a class="" href="https://anywhereweroam.com/category/turkey/">Turkey</a></span></p><hr /><div class="spacer spacer-one half-space"></div></div></div>
+					</div></div>
+					</div><div class="tmb tmb-iso-w4 tmb-iso-h4 tmb-light tmb-overlay-text-anim tmb-overlay-anim tmb-content-left  grid-cat-110 grid-cat-2164 tmb-id-77433 tmb-content-under tmb-media-first tmb-no-bg">
+						<div class="t-inside" ><div class="t-entry-visual"><div class="t-entry-visual-tc"><div class="t-entry-visual-cont"><div class="dummy" style="padding-top: 66.8%;"></div><a tabindex="-1" href="https://anywhereweroam.com/7-day-israel-itinerary/" class="pushed" target="_self" data-lb-index="5"><div class="t-entry-visual-overlay"><div class="t-entry-visual-overlay-in style-color-wvjs-bg" style="opacity: 0.3;"></div></div>
+									<div class="t-overlay-wrap">
+										<div class="t-overlay-inner">
+											<div class="t-overlay-content">
+												<div class="t-overlay-text half-block-padding"><div class="t-entry t-single-line"><i class="fa fa-arrow-right t-icon-size-md t-overlay-icon"></i></div></div></div></div></div><img class="adaptive-async" src="https://anywhereweroam.com/wp-content/uploads/2018/03/7-day-israel-itinerary-uai-250x167.jpg" width="250" height="167" alt="" data-uniqueid="84824-297050" data-guid="https://anywhereweroam.com/wp-content/uploads/2018/03/7-day-israel-itinerary.jpg" data-path="2018/03/7-day-israel-itinerary.jpg" data-width="1024" data-height="683" data-singlew="4" data-singleh="4" data-crop="" data-fixed="" /></a></div>
+				</div>
+			</div><div class="t-entry-text">
+							<div class="t-entry-text-tc half-block-padding"><div class="t-entry"><h6 class="t-entry-title font-134857 fontsize-212006 font-weight-600"><a href="https://anywhereweroam.com/7-day-israel-itinerary/" target="_self">7-day Israel itinerary &#8211; Jerusalem to Tel Aviv</a></h6><div class="t-entry-excerpt"><p>Our 7-day Israel itinerary uncovers the amazing history of Jerusalem, as well as hipster-cool Tel Aviv. Here is all you need to know.</p>
+</div><p class="t-entry-meta"><span class="t-entry-category t-entry-tax"><i class="fa fa-archive2 fa-push-right"></i><a href="https://anywhereweroam.com/category/itineraries/">Itineraries</a><span class="cat-comma">,</span></span><span class="t-entry-category t-entry-tax"><a class="" href="https://anywhereweroam.com/category/israel/">Israel</a></span></p><hr /><div class="spacer spacer-one half-space"></div></div></div>
+					</div></div>
+					</div>		</div>
+
+		</div>
+		</div>
+<div class="empty-space empty-quart"><span class="empty-space-inner"></span></div>
+<div class="uncode_text_column" ><p style="font-size: 13px;"><strong><span class="font-762333">ALL TRIPS /<a href="https://anywhereweroam.com/itineraries/"> ITINERARIES</a></span></strong></p>
+</div></div></div></div></div></div><script id="script-148605" data-row="script-148605" type="text/javascript">if ( typeof UNCODE !== "undefined" ) { UNCODE.initRow(document.getElementById("script-148605")); }</script></div></div></div><div data-parent="true" class="vc_row style-color-lxmt-bg row-container tablet-hidden mobile-hidden"><div class="row col-half-gutter single-top-padding double-bottom-padding single-h-padding limit-width row-parent" data-minheight="640"><div class="row-inner"><div class="pos-middle pos-center align_center align_center_tablet column_parent col-lg-12 single-internal-gutter"><div class="uncol style-light"  ><div class="uncoltable"><div class="uncell no-block-padding"><div class="uncont"><div class="heading-text el-text" ><h2 class="h6 fontspace-210350 font-weight-500 text-color-prif-color" ><span>OUR TOP PLACES</span></h2><hr class="separator-break separator-accent" /></div><div class="clear"></div><div class="owl-carousel-wrapper carousel-overflow-visible">
+					<div class="owl-carousel-container owl-carousel-loading half-gutter carousel-inner-padding">
+			<div id="index-1" class="owl-carousel owl-element owl-height-auto owl-dots-outside owl-dots-align-center" data-loop="true" data-dots="true" data-navmobile="false" data-navspeed="700" data-autoplay="true" data-timeout="3000" data-stagepadding="70" data-lg="1" data-md="1" data-sm="1" data-vp-height="false">
+		<div class="tmb tmb-carousel tmb-iso-h33 img-round img-round-std tmb-light tmb-text-showed tmb-overlay-anim tmb-overlay-bottom tmb-overlay-text-center tmb-overlay-text-mobile-center tmb-text-space-reduced tmb-shadowed tmb-shadowed-std tmb-entry-title-uppercase  grid-cat-148 grid-cat-150 grid-cat-153 tmb-no-double-tap tmb-id-80253 tmb-img-ratio tmb-media-first tmb-media-last tmb-content-overlay tmb-no-bg">
+						<div class="t-inside animate_when_almost_visible bottom-t-top" data-delay="200"><div class="t-entry-visual"><div class="t-entry-visual-tc"><div class="t-entry-visual-cont"><div class="dummy" style="padding-top: 100%;"></div><a tabindex="-1" href="https://anywhereweroam.com/places/turkey/" class="pushed" target="_self" data-lb-index="0"><div class="t-entry-visual-overlay"><div class="t-entry-visual-overlay-in style-color-wvjs-bg" style="opacity: 0.3;"></div></div>
+									<div class="t-overlay-wrap">
+										<div class="t-overlay-inner">
+											<div class="t-overlay-content">
+												<div class="t-overlay-text double-block-padding"><div class="t-entry"><h4 class="t-entry-title h4 font-weight-600">Turkey</h4></div></div></div></div></div><img class="adaptive-async" src="https://anywhereweroam.com/wp-content/uploads/2018/07/FA4A2927-uai-250x250.jpg" width="250" height="250" alt="Things to do in Istanbul" data-uniqueid="80092-197579" data-guid="https://anywhereweroam.com/wp-content/uploads/2018/07/FA4A2927.jpg" data-path="2018/07/FA4A2927.jpg" data-width="1024" data-height="683" data-singlew="12" data-singleh="12" data-crop="1" data-fixed="" /></a></div>
+				</div>
+			</div></div>
+					</div><div class="tmb tmb-carousel tmb-iso-h33 img-round img-round-std tmb-light tmb-text-showed tmb-overlay-anim tmb-overlay-bottom tmb-overlay-text-center tmb-overlay-text-mobile-center tmb-text-space-reduced tmb-shadowed tmb-shadowed-std tmb-entry-title-uppercase  grid-cat-149 grid-cat-153 tmb-no-double-tap tmb-id-71171 tmb-img-ratio tmb-media-first tmb-media-last tmb-content-overlay tmb-no-bg">
+						<div class="t-inside animate_when_almost_visible bottom-t-top" data-delay="200"><div class="t-entry-visual"><div class="t-entry-visual-tc"><div class="t-entry-visual-cont"><div class="dummy" style="padding-top: 100%;"></div><a tabindex="-1" href="https://anywhereweroam.com/places/south-africa/" class="pushed" target="_self" data-lb-index="1"><div class="t-entry-visual-overlay"><div class="t-entry-visual-overlay-in style-color-wvjs-bg" style="opacity: 0.3;"></div></div>
+									<div class="t-overlay-wrap">
+										<div class="t-overlay-inner">
+											<div class="t-overlay-content">
+												<div class="t-overlay-text double-block-padding"><div class="t-entry"><h4 class="t-entry-title h4 font-weight-600">South Africa</h4></div></div></div></div></div><img class="adaptive-async" src="https://anywhereweroam.com/wp-content/uploads/2017/08/20161103-FA4A4783-Edit-uai-250x250.jpg" width="250" height="250" alt="hyena snatching a kill in kruger" data-uniqueid="70112-132014" data-guid="https://anywhereweroam.com/wp-content/uploads/2017/08/20161103-FA4A4783-Edit.jpg" data-path="2017/08/20161103-FA4A4783-Edit.jpg" data-width="1024" data-height="683" data-singlew="12" data-singleh="12" data-crop="1" data-fixed="" /></a></div>
+				</div>
+			</div></div>
+					</div><div class="tmb tmb-carousel tmb-iso-h33 img-round img-round-std tmb-light tmb-text-showed tmb-overlay-anim tmb-overlay-bottom tmb-overlay-text-center tmb-overlay-text-mobile-center tmb-text-space-reduced tmb-shadowed tmb-shadowed-std tmb-entry-title-uppercase  grid-cat-147 grid-cat-153 tmb-no-double-tap tmb-id-81807 tmb-img-ratio tmb-media-first tmb-media-last tmb-content-overlay tmb-no-bg">
+						<div class="t-inside animate_when_almost_visible bottom-t-top" data-delay="200"><div class="t-entry-visual"><div class="t-entry-visual-tc"><div class="t-entry-visual-cont"><div class="dummy" style="padding-top: 100%;"></div><a tabindex="-1" href="https://anywhereweroam.com/places/iceland/" class="pushed" target="_self" data-lb-index="2"><div class="t-entry-visual-overlay"><div class="t-entry-visual-overlay-in style-color-wvjs-bg" style="opacity: 0.3;"></div></div>
+									<div class="t-overlay-wrap">
+										<div class="t-overlay-inner">
+											<div class="t-overlay-content">
+												<div class="t-overlay-text double-block-padding"><div class="t-entry"><h4 class="t-entry-title h4 font-weight-600">Iceland</h4></div></div></div></div></div><img class="adaptive-async" src="https://anywhereweroam.com/wp-content/uploads/2018/11/10-day-iceland-itinerary-33-uai-250x250.jpg" width="250" height="250" alt="" data-uniqueid="84003-615631" data-guid="https://anywhereweroam.com/wp-content/uploads/2018/11/10-day-iceland-itinerary-33.jpg" data-path="2018/11/10-day-iceland-itinerary-33.jpg" data-width="1000" data-height="667" data-singlew="12" data-singleh="12" data-crop="1" data-fixed="" /></a></div>
+				</div>
+			</div></div>
+					</div><div class="tmb tmb-carousel tmb-iso-h33 img-round img-round-std tmb-light tmb-text-showed tmb-overlay-anim tmb-overlay-bottom tmb-overlay-text-center tmb-overlay-text-mobile-center tmb-text-space-reduced tmb-shadowed tmb-shadowed-std tmb-entry-title-uppercase  grid-cat-149 grid-cat-153 tmb-no-double-tap tmb-id-86774 tmb-img-ratio tmb-media-first tmb-media-last tmb-content-overlay tmb-no-bg">
+						<div class="t-inside animate_when_almost_visible bottom-t-top" data-delay="200"><div class="t-entry-visual"><div class="t-entry-visual-tc"><div class="t-entry-visual-cont"><div class="dummy" style="padding-top: 100%;"></div><a tabindex="-1" href="https://anywhereweroam.com/places/namibia/" class="pushed" target="_self" data-lb-index="3"><div class="t-entry-visual-overlay"><div class="t-entry-visual-overlay-in style-color-wvjs-bg" style="opacity: 0.3;"></div></div>
+									<div class="t-overlay-wrap">
+										<div class="t-overlay-inner">
+											<div class="t-overlay-content">
+												<div class="t-overlay-text double-block-padding"><div class="t-entry"><h4 class="t-entry-title h4 font-weight-600">Namibia</h4></div></div></div></div></div><img class="adaptive-async" src="https://anywhereweroam.com/wp-content/uploads/2019/02/2-week-namibia-road-trip-14-uai-250x250.jpg" width="250" height="250" alt="2 week Namibia Road Trip" data-uniqueid="86332-967934" data-guid="https://anywhereweroam.com/wp-content/uploads/2019/02/2-week-namibia-road-trip-14.jpg" data-path="2019/02/2-week-namibia-road-trip-14.jpg" data-width="1000" data-height="667" data-singlew="12" data-singleh="12" data-crop="1" data-fixed="" /></a></div>
+				</div>
+			</div></div>
+					</div><div class="tmb tmb-carousel tmb-iso-h33 img-round img-round-std tmb-light tmb-text-showed tmb-overlay-anim tmb-overlay-bottom tmb-overlay-text-center tmb-overlay-text-mobile-center tmb-text-space-reduced tmb-shadowed tmb-shadowed-std tmb-entry-title-uppercase  grid-cat-151 grid-cat-153 tmb-no-double-tap tmb-id-71165 tmb-img-ratio tmb-media-first tmb-media-last tmb-content-overlay tmb-no-bg">
+						<div class="t-inside animate_when_almost_visible bottom-t-top" data-delay="200"><div class="t-entry-visual"><div class="t-entry-visual-tc"><div class="t-entry-visual-cont"><div class="dummy" style="padding-top: 100%;"></div><a tabindex="-1" href="https://anywhereweroam.com/places/mexico/" class="pushed" target="_self" data-lb-index="4"><div class="t-entry-visual-overlay"><div class="t-entry-visual-overlay-in style-color-wvjs-bg" style="opacity: 0.3;"></div></div>
+									<div class="t-overlay-wrap">
+										<div class="t-overlay-inner">
+											<div class="t-overlay-content">
+												<div class="t-overlay-text double-block-padding"><div class="t-entry"><h4 class="t-entry-title h4 font-weight-600">Mexico</h4></div></div></div></div></div><img class="adaptive-async" src="https://anywhereweroam.com/wp-content/uploads/2017/09/20170120-FA4A5932-uai-250x250.jpg" width="250" height="250" alt="Template at Palenque, Mexico" data-uniqueid="71777-869542" data-guid="https://anywhereweroam.com/wp-content/uploads/2017/09/20170120-FA4A5932.jpg" data-path="2017/09/20170120-FA4A5932.jpg" data-width="1024" data-height="683" data-singlew="12" data-singleh="12" data-crop="1" data-fixed="" /></a></div>
+				</div>
+			</div></div>
+					</div><div class="tmb tmb-carousel tmb-iso-h33 img-round img-round-std tmb-light tmb-text-showed tmb-overlay-anim tmb-overlay-bottom tmb-overlay-text-center tmb-overlay-text-mobile-center tmb-text-space-reduced tmb-shadowed tmb-shadowed-std tmb-entry-title-uppercase  grid-cat-150 grid-cat-153 tmb-no-double-tap tmb-id-75028 tmb-img-ratio tmb-media-first tmb-media-last tmb-content-overlay tmb-no-bg">
+						<div class="t-inside animate_when_almost_visible bottom-t-top" data-delay="200"><div class="t-entry-visual"><div class="t-entry-visual-tc"><div class="t-entry-visual-cont"><div class="dummy" style="padding-top: 100%;"></div><a tabindex="-1" href="https://anywhereweroam.com/places/sri-lanka/" class="pushed" target="_self" data-lb-index="5"><div class="t-entry-visual-overlay"><div class="t-entry-visual-overlay-in style-color-wvjs-bg" style="opacity: 0.3;"></div></div>
+									<div class="t-overlay-wrap">
+										<div class="t-overlay-inner">
+											<div class="t-overlay-content">
+												<div class="t-overlay-text double-block-padding"><div class="t-entry"><h4 class="t-entry-title h4 font-weight-600">Sri Lanka</h4></div></div></div></div></div><img class="adaptive-async" src="https://anywhereweroam.com/wp-content/uploads/2018/01/FA4A9288-uai-250x250.jpg" width="250" height="250" alt="10 day Sri Lanka itinerary Kaudulla National Park" data-uniqueid="74372-608251" data-guid="https://anywhereweroam.com/wp-content/uploads/2018/01/FA4A9288.jpg" data-path="2018/01/FA4A9288.jpg" data-width="1024" data-height="683" data-singlew="12" data-singleh="12" data-crop="1" data-fixed="" /></a></div>
+				</div>
+			</div></div>
+					</div>		</div>
+
+		</div>
+		</div>
+<div class="empty-space empty-quart"><span class="empty-space-inner"></span></div>
+<div class="uncode_text_column" ><p style="font-size: 13px;"><strong><span class="font-762333">ALL DESTINATIONS / <a href="https://anywhereweroam.com/places/">PLACES</a></span></strong></p>
+</div></div></div></div></div></div><script id="script-896682" data-row="script-896682" type="text/javascript">if ( typeof UNCODE !== "undefined" ) { UNCODE.initRow(document.getElementById("script-896682")); }</script></div></div></div><div data-parent="true" class="vc_row row-container desktop-hidden tablet-hidden"><div class="row-background background-element">
+											<div class="background-wrapper">
+												<div class="background-inner adaptive-async" style="background-image: url(https://anywhereweroam.com/wp-content/uploads/2019/02/2-week-namibia-road-trip-23-uai-250x167.jpg);background-repeat: no-repeat;background-position: center center;background-attachment: fixed;background-size: cover;" data-uniqueid="86343-119447" data-guid="https://anywhereweroam.com/wp-content/uploads/2019/02/2-week-namibia-road-trip-23.jpg" data-path="2019/02/2-week-namibia-road-trip-23.jpg" data-width="1000" data-height="667" data-singlew="12" data-singleh="null" data-crop=""></div>
+												
+											</div>
+										</div><div class="row col-half-gutter triple-top-padding no-bottom-padding single-h-padding limit-width row-parent" data-minheight="620"><div class="row-inner"><div class="pos-middle pos-center align_center column_parent col-lg-12 half-internal-gutter"><div class="uncol style-dark"  ><div class="uncoltable"><div class="uncell no-block-padding"><div class="uncont"><div class="heading-text el-text" ><h6 class="fontsize-212006 fontspace-210350 font-weight-500 text-uppercase" ><span>A WILD ENCOUNTER</span></h6></div><div class="clear"></div><span class="btn-container" ><a href="https://anywhereweroam.com/places/namibia/" class="custom-link btn btn-lg border-width-0 btn-default btn-outline btn-icon-left btn-ripple-out btn-border-animated">EXPLORE NAMIBIA</a></span></div></div></div></div></div><script id="script-175441" data-row="script-175441" type="text/javascript">if ( typeof UNCODE !== "undefined" ) { UNCODE.initRow(document.getElementById("script-175441")); }</script></div></div></div><div data-parent="true" class="vc_row row-container mobile-hidden"><div class="row-background background-element">
+											<div class="background-wrapper">
+												<div class="background-inner adaptive-async" style="background-image: url(https://anywhereweroam.com/wp-content/uploads/2019/05/FA4A8906-uai-250x167.jpg);background-repeat: no-repeat;background-position: center center;background-attachment: fixed;background-size: cover;" data-uniqueid="88923-138975" data-guid="https://anywhereweroam.com/wp-content/uploads/2019/05/FA4A8906.jpg" data-path="2019/05/FA4A8906.jpg" data-width="1200" data-height="800" data-singlew="12" data-singleh="null" data-crop=""></div>
+												
+											</div>
+										</div><div class="row col-half-gutter one-top-padding no-bottom-padding single-h-padding limit-width row-parent" data-minheight="620"><div class="row-inner"><div class="pos-middle pos-center align_center column_parent col-lg-12 half-internal-gutter"><div class="uncol style-light"  ><div class="uncoltable"><div class="uncell no-block-padding"><div class="uncont"><div class="heading-text el-text" ><h6 class="fontsize-212006 fontspace-210350 font-weight-400 text-color-jevc-color text-uppercase" ><span>A WILD ENCOUNTER</span></h6></div><div class="clear"></div><span class="btn-container" ><a href="https://anywhereweroam.com/places/namibia/" class="custom-link btn border-width-0 btn-default btn-outline btn-icon-left btn-ripple-out btn-border-animated">EXPLORE NAMIBIA</a></span></div></div></div></div></div><script id="script-994018" data-row="script-994018" type="text/javascript">if ( typeof UNCODE !== "undefined" ) { UNCODE.initRow(document.getElementById("script-994018")); }</script></div></div></div><div data-parent="true" class="vc_row row-container"><div class="row exa-top-padding no-bottom-padding single-h-padding limit-width row-parent"><div class="row-inner"><div class="pos-middle pos-center align_center column_parent col-lg-12 single-internal-gutter"><div class="uncol style-light"  ><div class="uncoltable"><div class="uncell"><div class="uncont one-block-padding col-custom-width" style="max-width:804px;"><div class="heading-text el-text" ><h2 class="h6 fontspace-210350 font-weight-500 text-color-prif-color" ><span>WHERE TO NOW?</span></h2><hr class="separator-break separator-accent" /></div><div class="clear"></div><div class="uncode_text_column" ><p>We&#8217;d love to have you on the journey with us, so before you go any further follow us on <strong><a href="https://www.instagram.com/anywhere_we_roam/" target="_blank" rel="noopener noreferrer"><span class="font-762333">INSTAGRAM</span></a>, <a href="https://www.facebook.com/anywhereweroam" target="_blank" rel="noopener noreferrer"><span class="font-762333">FACEBOOK</span></a>, <a href="https://twitter.com/anywhereweroam" target="_blank" rel="noopener noreferrer"><span class="font-762333">TWITTER</span></a></strong> and sign up for our monthly <strong><a class="font-762333" href="https://anywhereweroam.com/subscribe/"><span class="font-762333">NEWSLETTER</span></a>.</strong></p>
+<p>All our travel writing about a particular destination is on our <strong><a class="font-762333" href="https://anywhereweroam.com/places/">PLACES</a></strong> page, or you can browse through all our articles on the <strong><a href="https://anywhereweroam.com/blog/"><span class="font-762333">BLOG</span></a></strong> page.</p>
+<p>Our detailed itineraries have a day by day breakdown with, costs and other useful information. They’re all on the <strong><a href="https://anywhereweroam.com/itineraries/"><span class="font-762333">ITINERARIES</span></a></strong> page. Looking for a specific type of travel experience, or just a good read, then check out our <strong><a href="https://anywhereweroam.com/roam/"><span class="font-762333">ROAM</span></a></strong> page.</p>
+</div></div></div></div></div></div><script id="script-205299" data-row="script-205299" type="text/javascript">if ( typeof UNCODE !== "undefined" ) { UNCODE.initRow(document.getElementById("script-205299")); }</script></div></div></div><div class="row-container">
+	  					<div class="row row-parent style-light limit-width no-top-padding double-bottom-padding">
+								<img src="https://anywhereweroam.com/wp-content/uploads/2019/05/anywhere-we-roam-best-uk-travel-blog-2019.jpg" class="ss-hidden-pin-image" data-pin-url="https://anywhereweroam.com/" data-pin-media="https://anywhereweroam.com/wp-content/uploads/2019/05/anywhere-we-roam-best-uk-travel-blog-2019.jpg" data-pin-description="Home via @anywhereweroam"/>
+							</div>
+						</div></div></div>
+						</div>
+					</article>
+							</div><!-- sections container -->
+						</div><!-- page wrapper -->
+										<footer id="colophon" class="site-footer">
+						<div data-parent="true" class="vc_row row-container mobile-hidden"><div class="row-background background-element">
+											<div class="background-wrapper">
+												<div class="background-inner adaptive-async" style="background-image: url(https://anywhereweroam.com/wp-content/uploads/2019/03/anywhere-we-roam-travel-uai-250x167.jpg);background-repeat: no-repeat;background-position: center center;background-attachment: scroll;background-size: cover;" data-uniqueid="87626-185750" data-guid="https://anywhereweroam.com/wp-content/uploads/2019/03/anywhere-we-roam-travel.jpg" data-path="2019/03/anywhere-we-roam-travel.jpg" data-width="1024" data-height="683" data-singlew="12" data-singleh="null" data-crop=""></div>
+												
+											</div>
+										</div><div class="row one-top-padding quad-bottom-padding single-h-padding full-width row-parent" data-minheight="450" style="max-width:1200px; margin-left:auto; margin-right:auto;"><div class="row-inner"><div class="pos-top pos-center align_left column_parent col-lg-6 half-internal-gutter"><div class="uncol style-light"  ><div class="uncoltable"><div class="uncell no-block-padding"><div class="uncont"><div class="empty-space empty-half"><span class="empty-space-inner"></span></div>
+<div class="uncode_text_column" ><div style="width: 165px; padding: 0px; margin: 0px; border: 0px; line-height: 0px;"><a title="Trips100 - Travel Blogs" href="https://www.trips100.co.uk" target="_blank" rel="nofollow noopener noreferrer"><img class="alignnone" style="width: 165px; height: 110px; border: 0px; margin: 0px; padding: 0px;" title="Trips100 - Travel Blogs" src="https://www.trips100.co.uk/top/badge-1215-1.gif" alt="Trips100 - Travel Blogs" /></a><br />
+<a title="Trips100" href="https://www.trips100.co.uk/top/sponsor.html" target="_blank" rel="nofollow noopener noreferrer"><img style="width: 165px; height: 56px; border: 0px; margin: 0px; padding: 0px;" title="Trips100" src="https://www.trips100.co.uk/top/sponsor.gif" alt="Trips100" /></a></div>
+</div></div></div></div></div></div><div class="pos-top pos-center align_right align_center_mobile column_parent col-lg-6 half-internal-gutter"><div class="uncol style-light"  ><div class="uncoltable"><div class="uncell no-block-padding"><div class="uncont"><div class="empty-space empty-half"><span class="empty-space-inner"></span></div>
+<div class="empty-space empty-single"><span class="empty-space-inner"></span></div>
+<div class="empty-space empty-half"><span class="empty-space-inner"></span></div>
+<div class="uncode_text_column" ><p style="margin-bottom: 0em; margin-top: 0em; font-size: 16px; line-height: 12px;"><span class="font-762333"><strong>BEST UK TRAVEL BLOG 2019</strong></span></p>
+<p style="margin-bottom: 0em; margin-top: 0em;"><span class="font-762333">UK BLOG AWARDS</span></p>
+</div><div class="uncode_text_column" ><p><a href="https://anywhereweroam.com/about/"><span class="font-762333"><strong>ABOUT</strong> </span></a>/ <a href="mailto:hello@anywhereweroam.com"><span class="font-762333"><strong>CONTACT</strong> </span></a>/ <a href="https://anywhereweroam.com/subscribe/"><span class="font-762333"><strong>NEWSLETTER</strong></span></a></p>
+</div><div class="uncode-vc-social"><div class="social-icon icon-box icon-box-top icon-inline"><a href="https://www.instagram.com/Anywhere_We_Roam/" target="_blank"><i class="fa fa-instagram"></i></a></div><div class="social-icon icon-box icon-box-top icon-inline"><a href="https://www.facebook.com/anywhereweroam" target="_blank"><i class="fa fa-facebook-square"></i></a></div><div class="social-icon icon-box icon-box-top icon-inline"><a href="https://twitter.com/anywhereweroam" target="_blank"><i class="fa fa-twitter"></i></a></div><div class="social-icon icon-box icon-box-top icon-inline"><a href="https://www.pinterest.co.uk/anywhereweroam" target="_blank"><i class="fa fa-pinterest"></i></a></div></div></div></div></div></div></div><script id="script-750259" data-row="script-750259" type="text/javascript">if ( typeof UNCODE !== "undefined" ) { UNCODE.initRow(document.getElementById("script-750259")); }</script></div></div></div><div data-parent="true" class="vc_row row-container desktop-hidden tablet-hidden"><div class="row-background background-element">
+											<div class="background-wrapper">
+												<div class="background-inner adaptive-async" style="background-image: url(https://anywhereweroam.com/wp-content/uploads/2019/03/anywhere-we-roam-travel-uai-250x167.jpg);background-repeat: no-repeat;background-position: center center;background-attachment: scroll;background-size: cover;" data-uniqueid="87626-894950" data-guid="https://anywhereweroam.com/wp-content/uploads/2019/03/anywhere-we-roam-travel.jpg" data-path="2019/03/anywhere-we-roam-travel.jpg" data-width="1024" data-height="683" data-singlew="12" data-singleh="null" data-crop=""></div>
+												
+											</div>
+										</div><div class="row no-top-padding exa-bottom-padding single-h-padding full-width row-parent" data-minheight="450" style="max-width:1200px; margin-left:auto; margin-right:auto;"><div class="row-inner"><div class="pos-top pos-center align_left column_parent col-lg-12 half-internal-gutter"><div class="uncol style-light"  ><div class="uncoltable"><div class="uncell no-block-padding"><div class="uncont"><div class="uncode_text_column" ><div style="width: 165px; padding: 0px; margin: 0px; border: 0px; line-height: 0px;"><a title="Trips100 - Travel Blogs" href="https://www.trips100.co.uk" target="_blank" rel="nofollow noopener noreferrer"><img class="alignnone" style="width: 165px; height: 110px; border: 0px; margin: 0px; padding: 0px;" title="Trips100 - Travel Blogs" src="https://www.trips100.co.uk/top/badge-1215-1.gif" alt="Trips100 - Travel Blogs" /></a><br />
+<a title="Trips100" href="https://www.trips100.co.uk/top/sponsor.html" target="_blank" rel="nofollow noopener noreferrer"><img style="width: 165px; height: 56px; border: 0px; margin: 0px; padding: 0px;" title="Trips100" src="https://www.trips100.co.uk/top/sponsor.gif" alt="Trips100" /></a></div>
+</div><div class="empty-space empty-half"><span class="empty-space-inner"></span></div>
+<div class="uncode_text_column" ><p style="margin-bottom: 0em; margin-top: 0em; font-size: 16px; line-height: 12px;"><span class="font-762333"><strong>BEST UK TRAVEL BLOG 2019</strong></span></p>
+<p style="margin-bottom: 0em; margin-top: 0em;"><span class="font-762333">UK BLOG AWARDS</span></p>
+</div><div class="uncode_text_column" ><p><a href="https://anywhereweroam.com/about/"><span class="font-762333"><strong>ABOUT</strong> </span></a>/ <a href="mailto:hello@anywhereweroam.com"><span class="font-762333"><strong>CONTACT</strong> </span></a>/ <a href="https://anywhereweroam.com/subscribe/"><span class="font-762333"><strong>NEWSLETTER</strong></span></a></p>
+</div><div class="empty-space empty-half"><span class="empty-space-inner"></span></div>
+<div class="uncode-vc-social"><div class="social-icon icon-box icon-box-top icon-inline"><a href="https://www.instagram.com/Anywhere_We_Roam/" target="_blank"><i class="fa fa-instagram"></i></a></div><div class="social-icon icon-box icon-box-top icon-inline"><a href="https://www.facebook.com/anywhereweroam" target="_blank"><i class="fa fa-facebook-square"></i></a></div><div class="social-icon icon-box icon-box-top icon-inline"><a href="https://twitter.com/anywhereweroam" target="_blank"><i class="fa fa-twitter"></i></a></div><div class="social-icon icon-box icon-box-top icon-inline"><a href="https://www.pinterest.co.uk/anywhereweroam" target="_blank"><i class="fa fa-pinterest"></i></a></div></div></div></div></div></div></div><script id="script-849123" data-row="script-849123" type="text/javascript">if ( typeof UNCODE !== "undefined" ) { UNCODE.initRow(document.getElementById("script-849123")); }</script></div></div></div><div class="row-container style-dark-bg footer-last">
+	  					<div class="row row-parent style-dark no-top-padding no-h-padding no-bottom-padding">
+								<div class="site-info uncell col-lg-6 pos-middle text-left">&copy; 2019 Anywhere We Roam All rights reserved</div><!-- site info --><div class="uncell col-lg-6 pos-middle text-right"><div class="social-icon icon-box icon-box-top icon-inline"><a href="https://www.instagram.com/Anywhere_We_Roam/" target="_blank"><i class="fa fa-instagram"></i></a></div><div class="social-icon icon-box icon-box-top icon-inline"><a href="https://www.facebook.com/anywhereweroam" target="_blank"><i class="fa fa-facebook-square"></i></a></div><div class="social-icon icon-box icon-box-top icon-inline"><a href="https://twitter.com/anywhereweroam" target="_blank"><i class="fa fa-twitter"></i></a></div><div class="social-icon icon-box icon-box-top icon-inline"><a href="https://www.pinterest.co.uk/anywhereweroam" target="_blank"><i class="fa fa-pinterest"></i></a></div></div>
+							</div>
+						</div>					</footer>
+									</div><!-- main container -->
+			</div><!-- main wrapper -->
+					</div><!-- box container -->
+	</div><!-- box wrapper -->
+	<div class="style-light footer-scroll-top footer-scroll-higher"><a href="#" class="scroll-top"><i class="fa fa-angle-up fa-stack fa-rounded btn-default btn-hover-nobg"></i></a></div>	<div class="overlay overlay-sequential style-dark style-dark-bg overlay-search" data-area="search" data-container="box-container">
+		<div class="mmb-container"><div class="menu-close-search mobile-menu-button menu-button-offcanvas mobile-menu-button-dark lines-button x2 overlay-close close" data-area="search" data-container="box-container"><span class="lines"></span></div></div>
+		<div class="search-container"><form action="https://anywhereweroam.com/" method="get">
+	<div class="search-container-inner">
+		<input type="search" class="search-field form-fluid no-livesearch" placeholder="Search…" value="" name="s" title="Search for:">
+	  <i class="fa fa-search3"></i>
+	</div>
+</form>
+</div>
+	</div>
+
+		<div style="display:none">
+	</div>
+<script type="text/javascript">
+(function($) {
+    $(document).on('ready', function(){
+        var $links = $('a.inactive-link');
+        $links.on('click', function(e){
+            e.preventDefault();
+        });
+    });
+})(jQuery);
+</script><script type='text/javascript' src='https://anywhereweroam.com/wp-includes/js/underscore.min.js?ver=1.8.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var DavesWordPressLiveSearchConfig = {"resultsDirection":"","showThumbs":"false","showExcerpt":"false","displayPostCategory":"false","showMoreResultsLink":"true","activateWidgetLink":"true","minCharsToSearch":"0","xOffset":"0","yOffset":"0","blogURL":"https:\/\/anywhereweroam.com","ajaxURL":"https:\/\/anywhereweroam.com\/wp-admin\/admin-ajax.php","viewMoreText":"View more results","outdatedJQuery":"Dave's WordPress Live Search requires jQuery 1.2.6 or higher. WordPress ships with current jQuery versions. But if you are seeing this message, it's likely that another plugin is including an earlier version.","resultTemplate":"<ul id=\"dwls_search_results\" class=\"search_results dwls_search_results\">\n<input type=\"hidden\" name=\"query\" value=\"<%- resultsSearchTerm %>\" \/>\n<% _.each(searchResults, function(searchResult, index, list) { %>\n        <%\n        \/\/ Thumbnails\n        if(DavesWordPressLiveSearchConfig.showThumbs == \"true\" && searchResult.attachment_thumbnail) {\n                liClass = \"post_with_thumb\";\n        }\n        else {\n                liClass = \"\";\n        }\n        %>\n        <li class=\"post-<%= searchResult.ID %> daves-wordpress-live-search_result <%- liClass %>\">\n\n        <a href=\"<%= searchResult.permalink %>\" class=\"daves-wordpress-live-search_title\">\n        <% if(DavesWordPressLiveSearchConfig.displayPostCategory == \"true\" && searchResult.post_category !== undefined) { %>\n                <span class=\"search-category\"><%= searchResult.post_category %><\/span>\n        <% } %><span class=\"search-title\"><%= searchResult.post_title %><\/span><\/a>\n\n        <% if(searchResult.post_price !== undefined) { %>\n                <p class=\"price\"><%- searchResult.post_price %><\/p>\n        <% } %>\n\n        <% if(DavesWordPressLiveSearchConfig.showExcerpt == \"true\" && searchResult.post_excerpt) { %>\n                <%= searchResult.post_excerpt %>\n        <% } %>\n\n        <% if(e.displayPostMeta) { %>\n                <p class=\"meta clearfix daves-wordpress-live-search_author\" id=\"daves-wordpress-live-search_author\">Posted by <%- searchResult.post_author_nicename %><\/p><p id=\"daves-wordpress-live-search_date\" class=\"meta clearfix daves-wordpress-live-search_date\"><%- searchResult.post_date %><\/p>\n        <% } %>\n        <div class=\"clearfix\"><\/div><\/li>\n<% }); %>\n\n<% if(searchResults[0].show_more !== undefined && searchResults[0].show_more && DavesWordPressLiveSearchConfig.showMoreResultsLink == \"true\") { %>\n        <div class=\"clearfix search_footer\"><a href=\"<%= DavesWordPressLiveSearchConfig.blogURL %>\/?s=<%-  resultsSearchTerm %>\"><%- DavesWordPressLiveSearchConfig.viewMoreText %><\/a><\/div>\n<% } %>\n\n<\/ul>"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://anywhereweroam.com/wp-content/plugins/uncode-daves-wordpress-live-search/js/daves-wordpress-live-search.js?ver=5.2.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/anywhereweroam.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://anywhereweroam.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.3'></script>
+<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201924'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var socialsnap_script = {"ajaxurl":"https:\/\/anywhereweroam.com\/wp-admin\/admin-ajax.php","on_media_width":"250","on_media_height":"250","nonce":"2c7de94945","post_id":"67409","click_tracking":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://anywhereweroam.com/wp-content/plugins/socialsnap-plus/assets/js/socialsnap.js?ver=1.1.5.1'></script>
+<script type='text/javascript' src='https://anywhereweroam.com/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=5.2.1'></script>
+<script type='text/javascript' src='https://anywhereweroam.com/wp-content/themes/uncode/library/js/min/plugins.min.js'></script>
+<script type='text/javascript' src='https://anywhereweroam.com/wp-content/themes/uncode/library/js/min/app.min.js'></script>
+<script type='text/javascript' src='https://anywhereweroam.com/wp-includes/js/wp-embed.min.js?ver=5.2.1'></script>
+<script type='text/javascript' src='https://stats.wp.com/e-201924.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:7.4',blog:'133324655',post:'67409',tz:'1',srv:'anywhereweroam.com'} ]);
+	_stq.push([ 'clickTrackerInit', '133324655', '67409' ]);
+</script>
+
+			<div id="cookie-notice" role="banner" class="cn-bottom bootstrap" style="color: #fff; background-color: #000;"><div class="cookie-notice-container"><span id="cn-notice-text">We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it.</span><a href="#" id="cn-accept-cookie" data-cookie-set="accept" class="cn-set-cookie cn-button bootstrap button">OK</a>
+				</div>
+				
+			</div></body>
+</html>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Page Caching using disk: enhanced 
+
+Served from: anywhereweroam.com @ 2019-06-14 08:24:07 by W3 Total Cache
+-->
